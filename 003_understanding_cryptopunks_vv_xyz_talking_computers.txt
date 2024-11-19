@@ -1,0 +1,31 @@
+Title: Talking Computers
+
+URL: https://understanding-cryptopunks.vv.xyz/talking-computers
+
+Talking Computers If you're not familiar with code at all, there are a few basics we have to cover.
+
+Software code is a set of statements that tell the thing running the code what to do...
+
+There are many many different languages, but they all share some general characteristics.
+
+For us, we're looking at "Solidity" code, which is the most common programming language used to develop Smart Contracts on Ethereum.
+
+It compiles to low level machine code that runs on the Ethereum Virtual Machine ("EVM").
+
+We can think of the EVM as a virtualized computer that makes sure EVM code runs exactly the same on all machines participating in the network.
+
+Open the Crypto Punks Market.sol code for the Crypto Punks Market in a separate window to follow along!
+
+There are two dedicated code-reader apps you can use right in your browser:Contract Reader Deth.
+
+Net Alternatively you can download the code to your computer and open it in a text editor.
+
+Section Overview1.
+
+Functions Functions are the core building blocks of smart contracts.
+
+Most importantly, they make up our entry points to stuff our users aught to be able to do...2.
+
+Variables and Data Types In order to understand the Crypto Punks Marketplace we first have to get an undertanding of the different types of data points used.3.
+
+Statements and Expressions Any complex algorithm is just many simple instructions, lined up.

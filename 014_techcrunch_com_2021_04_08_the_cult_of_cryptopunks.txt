@@ -1,0 +1,329 @@
+Title: The Cult of CryptoPunks | TechCrunch
+
+URL: https://techcrunch.com/2021/04/08/the-cult-of-cryptopunks/
+
+Last month, hours before news of Beeple’s $69 million NFT sale grabbed the front pages of newspapers across the country, a pair of 24 x 24 pixel portraits of aliens wearing little hats sold separately for around $7.5 million each.
+
+The sales, which occurred within 20 hours of each other, didn’t garner the same headlines that the Beeple auction received, but there was a bit of coverage in the tech press, mostly because one of the aliens was sold by Dylan Field, the CEO of design software startup Figma.
+
+In a Clubhouse conversation following the sale, Field said he hoped that a century from now the blocky image he had sold would be seen as the “Mona Lisa of digital art.”
+
+Punk #7804, which recently sold for 4,200 Ether (about $7.5M at the time of sale)
+
+The pixelated alien portraits belonged to an NFT platform called Crypto Punks.
+
+In the world of NFTs, the platform is as close to ancient history as it gets, meaning it’s almost four years old.
+
+There are 10,000 punks, all of which were procedurally generated and claimed for free when the project launched in 2017.
+
+Since then, the economy built around trading these images has sauntered on with a small but passionate community, at least until a few months ago.
+
+That’s when it suddenly exploded, dragging into the fray Silicon Valley CEOs, prominent venture capitalists, famous You Tubers, poker stars and major business personalities.
+
+The platform has seen nearly $200 million worth of transaction volume in official deals since launch, according to NFT tracking site Crypto Slam, with 98% of that volume flowing through the platform in the past few months.
+
+The sudden rise in punk prices is owed to an explosion of interest in NFTs largely brought about by climbing cryptocurrency prices, the rise in popularity of Dapper Labs’ NBA Top Shot and the resurgence of the physical collectibles markets, all of which have made some investors more comfortable with the idea of betting on digital goods.
+
+Today, the cheapest punk you can buy will run you about $30,000 in Ethereum cryptocurrency, while the rarest may be worth just shy of $10 million.
+
+Crypto Punks have captured plenty of attention, but even with all eyeballs on the project, people still aren’t sure exactly what they’re looking at.
+
+“In NFT world, people are talking about selling Jack Dorsey tweets, Top Shots and Beeple in the same sentence right now,” Sotheby’s CEO Charles Stewart told Tech Crunch in an interview. “The lines can get a little blurry.
+
+When you look at Crypto Punks, are they art?
+
+Are they collectibles?
+
+Are they… you know, well… what are they exactly?”
+
+Image Credits: Lucas Matney
+
+A ‘more honest’ stock market
+
+Back in early 2017, John Watkinson and Matt Hall were playing with a pixelated character generator they built, and they were pretty enthusiastic about the fun little pop art portraits they had been cooking up.
+
+By June, they had created 10,000 characters with different hairstyles, hats and glasses for a project called Crypto Punks that would be hosted on the nascent Ethereum blockchain.
+
+Some punks had a handful of attributes, some had none, some were apes, some were aliens.
+
+While the creators had a hand in curating some elements, they let their generator take control of the creativity.
+
+They launched to modest interest from a small community of blockchain enthusiasts who only had to pay a few pennies in Ethereum “gas” transaction fees to own their own punk.
+
+It was a novel idea, pre-dating the NFT platform Crypto Kitties by months and NBA Top Shot by years, but it arrived at the cusp of crypto’s 2017 wave during the early throes of initial coin offerings, where scams were plentiful and attention was hard to come by.
+
+Hall said that about 20-30 punks were claimed in the days following launch.
+
+The NFT market is just getting started, but where is it headed?
+
+Then a week later Mashable wrote a story about the fledgling crypto art project, and within hours every punk was gone.
+
+Some users went all-in immediately.
+
+One user that went by the username hemba has become something of a cautionary figure in the Crypto Punks community, claiming more than 1,000 punks at launch and selling every one of them before the market took off this year, missing out on tens of millions of dollars in profits at current prices.
+
+Another user who goes by mr703 claimed some 703 punks in total at launch, hundreds of which they are still holding onto years later in a collection similarly worth tens of millions.
+
+In a Discord chat with the pseudonymous mr703, we asked whether they felt they had enough or if there were any punks they still intended to buy. “I own all the punks I ever really want,” they typed back.
+
+Their public wallet shows they paid more than $37,000 for a punk in the minutes in between our question and their answer.
+
+They spent $35,000 on another one several hours later.
+
+Some investors who have already gone all-in backing risky cryptocurrencies see NFTs as a way to diversify their crypto holdings.
+
+Others see Crypto Punks as more of a game.
+
+Crypto Punks creators Matt Hall and John Watkinson
+
+“I think that with each year that passes the definition of what is gambling and what is investing move closer and closer together,” says Mike Mc Donald, a 31-year-old professional poker player who recently bought his first punk.
+
+Why are some punks worth tens of thousands of dollars while others are worth millions?
+
+Users in the thriving Crypto Punks Discord community have had to decide that on their own, combining objective analysis of the rarity of certain design attributes with the more subjective impressions of punk “aesthetics.”
+
+Things aren’t always predictable.
+
+Earrings are the most common attribute for punks, commanding much lower price floors than those with beanie hats, which are the rarest attribute.
+
+But hundreds of punks are wearing 3D glasses, yet they tend to earn a hefty premium over those with green clown hair even though fewer of those punks exist.
+
+Some attributes gain market momentum randomly; for instance, the market for punks wearing hoodies has been particularly hot in recent weeks.
+
+“Obviously this is a very speculative market… but it’s almost more honest than the stock market,” user Max Orgeldinger tells Tech Crunch. “Kudos to Elon Musk — and I’m a big Tesla fan — but there are no fundamentals that support that stock price.
+
+It’s the same when you look at Game Stop.
+
+With the whole NFT community, it’s almost more honest because nobody’s getting tricked into thinking there’s some very complicated math that no one can figure out.
+
+This is just people making up prices and if you want to pay it, that’s the price and if you don’t want to pay it, that’s not the price.”
+
+As prices have surged, owning a piece of the Crypto Punks’ finite supply has become a “digital flex” in its own right, especially when used as an avatar on social media sites, several punk owners told us.
+
+That has drawn plenty of wealthy buyers outside the blockchain world, including influencers like You Tuber Logan Paul who uploaded a video last month detailing his $170,000 purchase of several punks.
+
+The NFT craze will be a boon for lawyers
+
+“When you don’t have a punk, the ecosystem seems like this gentlemen’s club of the 10,000 people that can afford these kinds of avatars,” says Mc Donald.
+
+There is some concern among the community whether all of this outside attention is a sign of an impending crash in prices, though many investors feel reassured by the historical value of Crypto Punks among NFTs.
+
+Nevertheless, some of the investors have a hard time convincing those in their lives that what they’re doing is anything but reckless.
+
+After a recent six-figure punk purchase, user Chris Mintern says his girlfriend was exasperated that he had just dropped more money on a punk than her house was worth. “She says it’s all just a bunch of internet nerds who don’t appreciate the value of money.
+
+That to them, it’s just a game and numbers on a screen,” he told Tech Crunch.
+
+The community surrounding Crypto Punks has largely bloomed on the chat app Discord in a dedicated group where users that are verified as punk owners tend to drive conversations and can gather attention for up-and-coming NFT projects they’re betting on.
+
+“It’s a bit of a cult,” said user thebeautyandthepunk in an interview.
+
+Like many early users, thebeautyandthepunk has stayed pseudonymous since claiming a couple dozen punks at launch, telling us that no one in her life has any idea she’s sitting on an NFT collection likely worth millions — except her accountant.
+
+She did recently decide to make it known that she was one of the few female traders who have been present in the overwhelmingly male Crypto Punks community since the beginning.
+
+“I really try to keep my real life and my crypto life completely separate,” she says. “But people need to know that women have been [in this space] for a while and we’re not going anywhere.”
+
+Today, all 10,000 punks are scattered across some 1,889 wallets, according to crypto tracker Etherscan.
+
+Some of those accounts are inactive and feared dead, with the punks inside them lost on the blockchain forever.
+
+The largest single wallet of punks today belongs to the platform’s creators, holding some 488 punks.
+
+It’s their only ownership in a blockchain-based marketplace where most mechanics are already set in stone.
+
+“We’re just users now, too.
+
+Nothing about our website is specific to us having created the project,” Watkinson tells Tech Crunch. “Our only equity is through the punks we own.
+
+We don’t take a cut of the market or anything.”
+
+Image Credits: Lucas Matney
+
+The NFT high-rollers table
+
+Today, Crypto Punks’ creators are working on NFTs full time.
+
+While they can’t make any underlying changes to the Crypto Punks contract, they have aimed to improve the website’s marketplace while hopping into the Discord group to keep an eye on the ever-growing community of users.
+
+“It was never our intention for this to sort of be our careers,” Watkinson says.
+
+In 2019, the duo debuted a follow-up project called Autoglyphs, which brought generative art to the blockchain.
+
+It didn’t boast the pop aesthetic of Crypto Punks, but it added a new layer to their exploration of blockchain art.
+
+Hall and Watkinson have built up a company around their various projects called Larva Labs, and they are in the process of building up a new NFT project that they hope will have a lower barrier of entry than Crypto Punks and Autoglyphs.
+
+“As the Crypto Punks get more and more expensive, they’re just hard to get into,” Hall says.
+
+At around $200 million in official marketplace sales, Crypto Punks’ total lifetime sales volume is about 40% of what Dapper Labs’ NBA Top Shot has achieved in its past several months.
+
+Though Crypto Punks has done so with 0.35% of Top Shot’s total transaction volume, which is fewer than 12,000 trades compared to more than 3.3 million, according to Crypto Slam.
+
+Those high transaction numbers spread across millions of NFTs mean much less value per transaction on Top Shot, but a much, much bigger pool of active users.
+
+Last month, Dapper Labs announced they had raised $305 million at a $2.6 billion valuation as they look to expand their private Flow blockchain to other blockchain “games” through more high-profile partnerships.
+
+Hall and Watkinson have been watching Dapper Labs’ success, but don’t think Larva Labs will need venture funding to continue exploring what’s next for NFTs.
+
+NBA Top Shot maker Dapper Labs is now worth $2.6 billion thanks to half of Hollywood, the NBA and Michael Jordan
+
+“Rather than looking at becoming a large company and doing a deal with the NBA or something like that, we’re more just looking forward to kind of just continuing to explore the tech possibilities,” Watkinson said. “What we love about Crypto Punks is the action, and so we’d like to find a way back to sort of that level of action, and our next project is going to try to find ways to sort of keep the deal flow going.”
+
+They have few details to share on the new project, which they said will debut “relatively soon” this year.
+
+Image Credits: Lucas Matney
+
+The origin of the species
+
+Crypto Punks lore is largely steeped in the assertion that they are the oldest NFT project on the Ethereum blockchain.
+
+It’s a line that was floated by almost all of the punk owners I spoke with as the main reason they had dumped hundreds of thousands of dollars into the platform.
+
+In Paul’s recent You Tube video, he justified prices to his skeptical friends by noting, “[Crypto Punks] is the first and that makes it special.”
+
+But over the past few weeks, holes in that narrative have begun to emerge, as “crypto archaeologists” have begun to unearth abandoned NFT projects that were created in Ethereum’s earliest days, with at least one arriving before Crypto Punks.
+
+We recently spoke with Cyrus Adkisson, the creator of a project called Etheria, which he debuted back in 2015, just three months after Ethereum’s mainnet went live.
+
+The project allowed users to buy up, sell and build on hexagonal swaths of digital land on a large map.
+
+It didn’t develop much of a following at launch and sat abandoned for years on the Ethereum blockchain until Adkisson saw the “fever pitch” developing around NFTs and started searching for the passcode to his old account.
+
+“I remember calling my parents toward the end of February, telling them I may be sitting on a goldmine here,” Adkisson told Tech Crunch.
+
+After ultimately gaining access to his Etheria account, he then fired off a few tweets from Etheria’s long-dormant Twitter account, detailing that the bulk of the 914 tiles across two externally tradeable versions were still available and could be claimed for 1 Ether each.
+
+Adkisson says by the end of that weekend, his previously empty wallet was filled with $1.4 million worth of Ethereum.
+
+https://twitter.com/etheria_feed/status/1370825688647884802?s=20
+
+Age alone won’t make Etheria a hit; the major challenge from here is building up a community around the project that brings in more users and pushes the prices of land tiles higher.
+
+A tile recently sold for nearly $25,000 worth of Ether, but early adopters are struggling to balance waiting out the market’s development with liquidating enough tiles so that new users can get involved and the project can build hype.
+
+“With these projects, it’s like, yeah, you have the historical context, but now you need to build a solid foundation with your communities because your real measure is not now, but it’s going to be what your community, size and engagement look like in a year,” says Allen Hena, an NFT enthusiast who helped attract attention to the Etheria community last month with a series of blog posts.
+
+In the days following the project’s resurrection, the young community has already seen plenty of disagreement and infighting as Adkisson aims to maintain some level of control over the platform on which plenty have already pinned their retirement plans.
+
+Owners are mainly frustrated by Adkisson’s attempts to make an older version of Etheria externally tradeable, something that would likely make land tiles on the existing contracts considerably less valuable.
+
+Since our interview, Adkisson has left Etheria’s Discord server and admins in the group have vowed to continue on without him as he decides which direction he wants to take Etheria 1.0.
+
+While punk owners we talked with are keeping an eye on these newly reemerged projects, they’re also skeptical that Etheria’s older status will do much to impact Crypto Punks’ value to NFT history.
+
+“On paper it looks cool but it didn’t actually do anything for the community,” says user Daniel Maegaard. “Crypto Punks did all the hard work.”
+
+Punk #6487, which Daniel Maegaard recently sold for 550 Ether (about $1.05M at the time of sale)
+
+Maegaard, a 30-year-old crypto investor based in Brisbane, Australia, is more tied up in the value of Crypto Punks than most.
+
+He recently sold a particularly rare female “zero-trait” punk for more than $1 million.
+
+He’s also the owner of one of the rarest — some argue the rarest — punks, the only one with seven unique attributes, a qualifier that has earned it the nickname “7-atty” and a sacred place in punk lore.
+
+When he bought the punk for about $18,000 in Ethereum last year, it was the most anyone had ever paid.
+
+He isn’t keen to let it go anytime soon, saying he recently turned down a private offer for $4.2 million from a group of investors that hoped to tokenize the NFT and sell fractional shares of it to other users.
+
+Part of holding onto it is the potential for further gains, but the real reason, he says, is that he’s beginning to feel an emotional bond with his collection of digital files.
+
+“These little pixelated faces, it should be easy to give them up.
+
+I’ve sold a few punks and I’ve regretted every sale, I experienced that when I sold my zero-trait punk,” Maegaard says. “Like, yeah, a million dollars is nice, but I really liked her.”
+
+Topics
+
+accountant, Blockchain art, blockchains, brisbane, Crypto, crypto art, Crypto Economy, cryptocurrencies, Dapper Labs, decentralization, Dylan Field, Elon Musk, ethereum, Figma, gamestop, jack dorsey, logan paul, matt hall, Mona Lisa, national basketball association, NBA, NFTs, player, sotheby’s
+
+Lucas Matney
+
+@lucasmtny
+
+Lucas Matney was a senior editor at Tech Crunch based in San Francisco.
+
+View Bio
+
+Newsletters
+
+See More
+
+Subscribe for the industry’s biggest tech news
+
+Tech Crunch Daily News
+
+Every weekday and Sunday, you can get the best of Tech Crunch’s coverage.
+
+Tech Crunch AI
+
+Tech Crunch's AI experts cover the latest news in the fast-moving field.
+
+Tech Crunch Space
+
+Every Monday, gets you up to speed on the latest advances in aerospace.
+
+Startups Weekly
+
+Startups are the core of Tech Crunch, so get our best coverage delivered weekly.
+
+No newsletters selected.
+
+Subscribe
+
+By submitting your email, you agree to our Terms and Privacy Notice.
+
+Related
+
+Social
+
+Bluesky tops 20M users, narrowing gap with Instagram Threads
+
+Sarah Perez
+
+3 hours ago
+
+Biotech & Health
+
+Oura valued at $5B following deal with medical device firm Dexcom
+
+Aisha Malik
+
+5 hours ago
+
+Apps
+
+Microsoft will soon let you clone your voice for Teams meetings
+
+Kyle Wiggers
+
+6 hours ago
+
+Latest in Crypto
+
+See More
+
+Crypto
+
+A Conversation with Jonathan Levin at Strictly VC NYC 2024
+
+Yashad Kulkarni
+
+Nov 13, 2024
+
+20 min
+
+Crypto
+
+FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others
+
+Anthony Ha
+
+Nov 9, 2024
+
+In Brief
+
+Block scales back TIDAL investment and shutters TBD in favor of Bitcoin mining
+
+Maxwell Zeff
+
+Nov 7, 2024

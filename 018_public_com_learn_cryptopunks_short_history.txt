@@ -1,0 +1,79 @@
+Title: CryptoPunks: A Short History - Public.com
+
+URL: https://public.com/learn/cryptopunks-short-history?wpsrc=Organic+Search&wpsn=www.google.com
+
+In the midst of cultural watercooler buzz around NFTs, meme stocks, and cryptocurrency, you might have heard the name Crypto Punk come to the fore.
+
+Indeed, while the true value of assets like Dogecoin or AMC stocks continues to be hotly debated, the Crypto Punks made their claim to fame before hitting the financial markets.
+
+These punks are credited as one of the earliest examples of NFTs on Ethereum, and the inspiration for the ERC-721 standard that powers most digital art and collectibles.
+
+The Art Movement of Our Times Source: Larva Labs Every new artistic movement has had its catalyst artist or artists Claude Monet christened the Impressionist movement; Andr Breton, Max Ernst and Salvador Dal helped define Surrealism; and Andy Warhol, Jasper Johns, and Roy Lichtenstein popularized Pop art.
+
+For our digital era, we have Larva Labs and the Crypto Art movement.
+
+The Crypto Punks are the alpha and omega of this movement, as deemed by Christies.
+
+Larva Labs was founded in 2005 by programmers John Watkinson and Matt Hall.
+
+The two creative technologists launched the Crypto Punks art project in June 2017, posing the conceptual question that everyone is asking now, four years later: What does ownership mean in the digital age?
+
+Will people have any interest in paying for the equivalent of a digital certificate of authenticity?
+
+Graphic depiction of Matt and John.
+
+Source: Larva Labs For the uninitiated, Crypto Punks are 10,000 uniquely generated characters (i.e.
+
+NFTs created on the Ethereum blockchain), which come in the form of 24-by-24 pixel heads (think: Sex Pistols fans, circa 1977).
+
+No two Crypto Punks are exactly alike, and each of them can only be officially owned by a single person on the Ethereum blockchain.
+
+While the most common versions of Crypto Punks take the form of the aforementioned punk rock fanboth men and women, some with mohawks, some smoking ciggies, some bearded, pierced or even wearing PPE!other rarer types portray non-human entities such as apes, zombies or aliens.
+
+Source: Larva Labs Each punk has its own profile page that shows his, her, or its attributes and ownership status, and each one also has a distinct number.
+
+So, for example, Crypto Punk 1442, a dark-skinned woman wearing a thick black eye mask and earring, who has a shock of dyed-red (crazy) hair, is categorized as one of the 3,840 female punks in the series (she was first claimed in June 2017 and has never been listed for sale by her owner, Wrapped C, who also happens to own 245 other Crypto Punks).
+
+Originally, Larva Labs offered up 9,000 of the Crypto Punks for free to anyone who had an Ethereum wallet (the Ethereum blockchain has its own cryptocurrency called Ether or ETH), keeping the final 1,000 for themselves (the Dev punks).
+
+At first, it took some time for their popularity to catch on, but after Mashable published a story explaining the concept and its significance, the 9,000 free punks were snapped up in 24 hours.
+
+Todays Markets and Significant Sales Nowadays, Crypto Punks must be purchased from someone via the blockchains marketplace, or a broker, like major auction houses Sothebys or Christies, as theyve since accrued a tremendous value on the secondary market.
+
+Source: Larva Labs Crypto Punk 7523, for example, dubbed the COVID Alien because of its rare mask-wearing attribute, sold this past June in a Sothebys auction for $11.8 million.
+
+Not to be outdone, Larva Labs itself auctioned off nine Crypto Punks in a Christies auction the month before for north of $16.9 millionthought to be the second-highest sale of an NFT or group of NFTs, with only Beeples Everydays: The First 5,000 Days, going for more at $69 million.
+
+In an interesting twist, Crypto Punks creator Larva Labs also flipped the script on its most valuable invention.
+
+When the company did its initial run of Crypto Punks, it printed out physical lithographs of 24 of them, each of which was signed by co-founder Watkinson.
+
+Included with each was a physical envelope was a wallet that endowed ownership of said Crypto Punk to the person that possessed it.
+
+Nine of these 24 were offered at Sothebys in an auction ending on the 1st of Julyand five of them went for between $210,000-$315,000 each, a respectable sum to say the least.
+
+Source: Sothebys Want a punk yourself?
+
+Youll need to download and install the Chrome browser plugin Meta Mask, which will allow websites access to your Ethereum account (but only ones you authorize).
+
+Once you have the plugin installed, Larva Labs website recognizes it and adds buttons that allow you to bid on, buy and sell punks directly in the interface (of course, you need Ether to do that).
+
+Or you could just go through a major auction house.
+
+The above content provided and paid for by Public and is for general informational purposes only.
+
+It is not intended to constitute investment advice or any other kind of professional advice and should not be relied upon as such.
+
+Before taking action based on any such information, we encourage you to consult with the appropriate professionals.
+
+We do not endorse any third parties referenced within the article.
+
+Market and economic views are subject to change without notice and may be untimely when presented here.
+
+Do not infer or assume that any securities, sectors or markets described in this article were or will be profitable.
+
+Past performance is no guarantee of future results.
+
+There is a possibility of loss.
+
+Historical or hypothetical performance results are presented for illustrative purposes only.

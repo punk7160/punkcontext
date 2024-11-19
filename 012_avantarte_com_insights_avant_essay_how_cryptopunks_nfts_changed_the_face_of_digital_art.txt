@@ -1,0 +1,151 @@
+Title: How CryptoPunks NFTs changed digital art
+
+URL: https://avantarte.com/insights/avant-essay/how-cryptopunks-nfts-changed-the-face-of-digital-art
+
+The Origins of Crypto Punks In the ever-evolving landscape of digital innovation, few creations have encapsulated the spirit of self-expression and transgression quite like Crypto Punks.
+
+At the core of the digital revolution is the essence of ‘punk’ – disrupting the status quo, challenging conventional norms, and disregarding accepted art aesthetics.
+
+As small, pixelated avatars, Crypto Punks have risen to prominence not only as unique digital collectibles but also as symbols for a new era of self-fashioning in the age of the internet.
+
+Conceived in 2017 by software developers and artists Matt Hall and John Watkinson, Crypto Punks were one of the first NFTs (non-fungible tokens) minted on the Ethereum blockchain.
+
+Comprising 10,000 distinct 24x24 pixel art characters, Crypto Punks challenged conventional notions of digital identity.
+
+In a realm where personal identity was often linked to real-world attributes, Crypto Punks emerged as entirely virtual entities, granting their owners the ability to curate their digital personas without the constraints of physical reality.
+
+Assorted Crypto Punks – coloured backgrounds denote their status.
+
+Punks on blue are not for sale and have no live bids, Punks on red are available for sale by their owner, Punks on purple have an active bid on them, and Punks on green have been wrapped for sale on ERC-721 markets.
+
+Punk aesthetics in the web3 Era The project drew its aesthetic inspiration from diverse sources, including the vibrant alternative London punk scene, the revolutionary cypherpunk movements and the world of pixel art.
+
+As an homage to subcultures, Larva Labs specifically refers to Punks as ‘pixel art images’ highlighting how the project wasn’t meant to be a speculative investment asset, but rather an artistic exploration of digital ownership and identity.
+
+Each Punk is distinguished by a variety of unique sets of attributes, meaning no two are the same.
+
+There are a total of 87 attributes which include beanie, hair colour or glasses to name a few.
+
+No Punk can have more than seven qualities.
+
+This leads to certain characteristics becoming rare and highly desired.
+
+There are few Punks with no traits and one punk – #8348, owned by DJ Seedphase – with 7 total traits.
+
+While the majority of Punks look like a human, there are 3 additional rare types: Zombie (88 total), Ape (24 total) and Alien (9 total).
+
+Within this amalgamation, collectors have sought to find themselves a visual identity, but also learn and explore what it means to be a part of a community.
+
+IRL Punks on Kings Road in 1979Beyond their pixelated appearance, Crypto Punks uphold the tenets of the web3 space and have influenced the wider Crypto Art movement.
+
+Hall and Watkinson created Crypto Punks as one of the first generative portraits on-chain, meaning they were not individually crafted.
+
+The 10,000 images were generated through an algorithm that mixed and matched different traits to create the collection.
+
+Crypto Punks was launched on Ethereum, specifically the standard ERC-20.
+
+It was revolutionary as each Punks contract incorporates a unique hash to verify the image file on the blockchain.
+
+This means it was possibly the first work of art with a self-contained mechanism to transact its ownership.
+
+Unlike an image one might post to Instagram or use as a profile photo on Facebook, Crypto Punks holders own their images.
+
+These digital artworks are visually unique, and scarce as ownership can’t be copied.
+
+The pixelated characters are a symbol of innovation and have gone on to inspire more technological advancements such as the ERC-721 standard that powers most digital art today.
+
+Self-fashioning and the rise of the PFP Self-fashioning refers to the process of constructing one’s identity and public persona to reflect a set of cultural standards and social codes.
+
+It originated in portraits which would incorporate motifs and images that an individual wanted to outwardly project.
+
+For example, a man who wanted to exude authority and power might depict himself in armour, or with weapons.
+
+Over time these visual devices have morphed and evolved alongside the ideals of society.
+
+Today, in the age of the internet and social media, outward symbols and status continue to be important to form unique online identities.
+
+The significance of Crypto Punks is how they symbolise a radical shift in the way individuals perceive and construct their online identities.
+
+With the rise of social media, online self-fashioning had already begun to take shape, but Crypto Punks took it to an entirely new level.
+
+Owners could select a punk that resonated with their sense of self – be it rebellious, quirky, or futuristic – and project that essence onto their digital interactions by using it as their PFP (profile picture).
+
+This newfound ability to hand-pick a unique digital avatar marked a turning point in the quest for personal representation in the digital realm.
+
+The Ambassadors, a Tudor portrait painted by Hans Holbein the Younger in 1533, incorporates a variety of significant objects.
+
+Scientific instruments, lavish textiles and religious artefacts provide clues about the lives of its subjects.
+
+Initially, Punks were offered for free.
+
+Anyone was able to claim them for minimal gas fees.
+
+Today, individuals use their punks to represent themselves fully online – signalling their early adoption of crypto culture and principles of decentralised anonymity.
+
+A variety of notable collectors such as 6529 and DJ Seedphrase have built their online identities around their Punk – their Twitter and Discord profile photos are their punk.
+
+Despite their influential roles within the industry, their personal identities remain more elusive.
+
+The aura of anonymity in the decentralised world of web3 and blockchain remains a core element of online self-fashioning.
+
+Meanwhile, other influential collectors such as Richerd Chan (co-founder of manifold xyz, a leading NFT minting platform) have taken elements of their owned Crypto Punk into the physical world.
+
+In public he wears pixelated 3D glasses recognizable from his Crypto Punk #6046, effectively establishing an evolving aesthetic associated with Punks, indicating a growing cultural movement that extends beyond the digital realm.
+
+Richerd Chan and his Crypto Punk Seedphrase and his Crypto Punk The emergence of Cryptopunks paralleled the ascent of NFTs, revolutionizing the art world by introducing a new dimension of ownership.
+
+By tokenizing digital art, creators gained the power to prove authenticity and uniqueness, allowing for direct transactions between artists and collectors.
+
+Crypto Punks became an emblem of this phenomenon, serving as both collectible artworks and symbols of individuality.
+
+Their ownership model, decentralized and open, bypassed traditional gatekeepers and empowered creators and collectors alike.
+
+A strong community has emerged from the Cryptopunks that has fostered both digital and real-life meetups dedicated to its holders.
+
+Punks not only individually represented themselves but also a community of like-minded individuals.
+
+One of the earliest Crypto Punk supporters, Snowfro, was inspired by his experience and would go on to create one of the leading generative art platforms in the world, Art Blocks.
+
+Crypto Punks has become a motif of self-expression and a symbol of experimentation and technological advancement.
+
+The community formed around Crypto Punks is nurturing the future of digital art.
+
+When we were looking around the blockchain space and learning about Ethereum to do this collectible, we were struck by the cyberpunk vibe of the crypto community.
+
+They had this very counterculture thing.
+
+They were trying to build this shadow economy that was separate from all the incumbents, everything, and so it had that cool element of punk that we've always enjoyed.
+
+We like punk music and just punk aesthetics, everything, and so it just felt like the right marriage of concepts.
+
+The idea of the Crypto Punk just naturally came out of that.
+
+Matt Hall and John Watkinson Punks in formation – individual punks are composed from a grid of 24x24 pixels, meaning all 10,000 can be shown at full resolution in a relatively small image, like the one above.
+
+This was helpful given the limited storage available at the advent of the blockchain.
+
+Crypto Punks have swiftly penetrated the mainstream, captivating not only crypto enthusiasts but also artists, celebrities and the general public.
+
+They became part of a broader cultural conversation, sparking debates about the value of digital ownership, the definition of art and the boundaries of self-expression.
+
+While news and the general public might gawk about their meteoric rise and high sales prices, Crypto Punks embody the spirit of ‘punk’ – standing as rebellious icons against established status symbols.
+
+Punks are non-conformists, and will continue to be a beacon of innovation and provide a sense of community.
+
+Opportunities to collect On Thursday 26 October, we're launching a pair of time-limited prints in collaboration with Crypto Punks' current custodians, Yuga Labs.
+
+Punk On-Chain offers holders the chance to print their Punk as a 1-of-1, multi-layered UV pigment print.10,000 On-Chain, by contrast, offers anyone and everyone the chance to own a piece of web3 history.
+
+Go Deeper Learn more with this quick history of Crypto Punks.
+
+Check out glitch Gallery's article on Crypto Punks to find out more about the movement.
+
+Visit the Crypto Punks site to get involved.
+
+Have thoughts?
+
+Avant Essays are short(ish) opinions on art, written by anyone with an opinion on art.
+
+Have something to say?
+
+Get in touch.

@@ -1,0 +1,521 @@
+Title: CryptoPunks V1 - NFT History
+
+URL: https://www.nfthistory.org/wiki/CryptoPunks_V1
+
+Crypto Punks V1
+
+From NFT History
+
+Jump to navigation
+
+Jump to search
+
+Crypto Punks V1
+
+Blockchain
+
+Ethereum
+
+Creation Date
+
+June 9, 2017
+
+Fungibility
+
+Non-Fungible
+
+Developer(s)
+
+John Watkinson & Matt Hall
+
+Artist(s)
+
+John Watkinson & Matt Hall
+
+Explorer(s)
+
+Etherscan
+
+Marketplace(s)
+
+Open Sea https://www.v1punks.io
+
+Social Account(s)
+
+Twitter
+
+Chat(s)
+
+Discord
+
+Website(s)
+
+https://v1punks.gitbook.io/Cryptopunks-v1-wiki/
+
+Cryptopunks V1 are the original 10,000 uniquely generated punk characters created in 2017 on the Ethereum blockchain by founders Matt Hall and John Watkinson through their company, Larva Labs.
+
+Due to a bug discovered nine days after their release, the Cryptopunks V1 contract was replaced with a new V2 contract (Crypto Punks).
+
+The result is two identical sets of Cryptopunks existing on-chain, Cryptopunks V1 being the "original", and Crypto Punks (V2 contract) being the "official".
+
+Cryptopunks were an experiment to explore the intersection between digital objects and artificial rarity.
+
+The project is said to be partially inspired by the London punk scenes, the cypherpunk movement, and Daft Punk.
+
+Arguably the most influential NFT collection, Cryptopunks introduced a number of attributes such as 3D glasses, cowboy hats, and zombies which would be referenced by countless NFTs in the future, as well as making 10k a popular default collection size.
+
+A collection of variable randomly assigned attributes[1] makes each individual punk unique.
+
+No two Cryptopunks are exactly alike, however, in some cases, there is only skin tone or even a single pixel differentiating two punks.
+
+The majority of the 10,000 punks are human (6,039 male and 3,840 female), but there are also three additional types: Zombie (88), Ape (24), and Alien (9).
+
+Unlike modern NFT collections consisting of thousands of individual images, all 10k Cryptopunks were generated into a single image[2] with each individual NFT pointing to a different coordinate on the image.
+
+Cryptopunks are regularly traded on the open market[3] and have made their way to auction houses like Christie's.[4]
+
+Contents
+
+1 Early history
+
+1.1 Out of range punks
+
+1.2 The marketplace bug
+
+1.3 V2 contract
+
+1.4 Classic Punks Wrapper
+
+2 Recent events
+
+2.1 New wrapper
+
+2.2 Rarible marketplace
+
+2.3 Larva Labs V1 sales
+
+2.4 Yuga Labs acquisition
+
+2.5 Open Sea relisting
+
+2.6 Commercial rights & lingering questions
+
+2.7 3983 theft
+
+3 Supply and rarity
+
+3.1 Survivor punks
+
+3.2 Rainforest punks
+
+3.3 Highest sales
+
+4 References
+
+Early history
+
+The original "Cryptopunks" contract was published on June 9th, 2017, and was announced via Twitter & Reddit[5].
+
+Consisting of 10,000 pieces, Larva Labs kept the first 1,008 Cryptopunks for themselves and made the remaining 8,992 available to the public in a free-to-claim (plus gas) mint.
+
+The first Cryptopunk claimed by the public was #3983 (Hoodie Nerd Glasses)[6] which was claimed by Bokky[7] 10 hours and 26 minutes after Larva Labs claimed theirs, it would take another 8 days before the collection was fully claimed.
+
+It is now known that a number of additional Cryptopunks were claimed by Larva Labs founders through their personal wallets as well.
+
+This was the first 10k collection on Ethereum, a size that later became a standard for NFT PFP collections.[8] The "Cryptopunks" smart contract was the first Solidity contract published by Larva Labs and was based on a modified ERC-20 token standard, these modifications would serve as an inspiration for the ERC-721 NFT Standard pioneered by Dieter Shirley and Dapper Labs with Crypto Kitties several months later and then finalized as an official Ethereum token specification in 2018.
+
+Initially, interest was very light and Larva Labs stated that they were concerned the experiment had failed on launch.
+
+However, on June 16th Mashable[9] published an article about the project which brought in a rush of claimants and by June 17th all 10,000 Cryptopunks had been claimed.
+
+People began trading punks 1 for 1 immediately and Larva Labs activated the marketplace so that people could buy and sell Cryptopunks.
+
+Cryptopunks have a transparent background, and background colors indicated status, such as if they punk was claimed yet.
+
+All 10k Cryptopunks were generated into a single image[10] with each individual NFT pointing to a different coordinate on the image.
+
+The image has a transparent background with the intention that the background color could change to describe the status of the punk.
+
+The blue background which is now recognized as the default Cryptopunk background color initially represented that the Cryptopunk had not yet been claimed.
+
+Green represented that it had been claimed, and red represented that the Cryptopunk had been listed for sale.
+
+These colors would change with the release of the V2 contract so that blue represents owned, red-brown represents for sale, and purple represents that there is an offer or bid on the Cryptopunk.
+
+A visualization showing the Cryptopunk claims over the 10 days between June 9 and June 18
+
+There were 267 wallets[11] that claimed Cryptopunks, though in some cases several wallets were managed by a single person.
+
+Original Cryptopunk claimants include including notable large claims by Thebeautyandthepunk, Hemba, Moxsly, Mr 703[12], Tony Herrera, Wilcox, and several anonymous wallets.
+
+Moxsly, who now goes by the name Straybits, famously claimed 7 Aliens and 8 Apes,[13] including #5822 (alien) which currently holds the title of the highest price ever paid for a Cryptopunk at $23.7 Million dollars in February 2022.[14])
+
+On March 4, 2018 Larva Labs filed a visual copyright registration for "Cryptopunks" citing a publication date of June 9th, 2017.[15]
+
+Out of range punks
+
+While there were 10k Cryptopunks available in the original contract, there was no restriction that people could only claim those 10k Cryptopunks - which resulted in 3 curious individuals claiming Cryptopunks that were outside of the 10k range.
+
+There are Cryptopunk tokens for numbers 76623, 9845944, and the largest possible integer 115792089237316195423570985008687907853269984665640564039457584007913129639935.
+
+Because these were out of range there is no Cryptopunk image associated with these tokens, making them unique in the collection.
+
+These tokens [16] still exist in the original contract with the last one still being held by an active wallet.
+
+Larva Labs has never discussed these "out of range" punks, however when they issued the V2 Cryptopunk contract they did not replicate and airdrop those tokens, instead replacing them with the three unclaimed tokens from the original 10k set.
+
+Because of this there are 3 Cryptopunks, numbers 1416, 1838, 1841, which exist only in the V2 contract and have no V1 counterpart.
+
+The marketplace bug
+
+Announcement on Twitter asking people not to sell Cryptopunks due to the bug.
+
+The V1 "Cryptopunks" contract was verified by Etherscan on Jun 17, 2017, the same day the final punk was claimed and the marketplace was activated.
+
+Shortly after the marketplace was activated a bug was found which enabled a buyer to claim both the Cryptopunk and the Ether used to purchase it, leaving the seller empty-handed.
+
+Approximately ~80 Cryptopunks were traded using this broken function, 69 of which have been attributed to Hemba.
+
+As soon as this was discovered Larva Labs announced that a bug had been found and asked people to please not trade punks while they worked on a fix.
+
+By this time ~100 Cryptopunks had changed hands.
+
+V2 contract
+
+Matt Hall speaking about Cryptopunks V1 at R.
+
+A.
+
+R.
+
+E Digital Arts Festival in January, 2018
+
+On June 23rd, 2017, seven days after finding the bug in the "Cryptopunks" "V1" contract, Larva Labs published a new contract called "Cryptopunks Market" which resolved the sales bug and added an additional bidding feature allowing people to make offers on punks that had not yet been listed for sale.
+
+A line-by-line comparison of the two contracts[17] shows this was not simply a copy-and-paste bug fix but rather that significant upgrades were made and this truly was a new contract.
+
+This V2 contract which is now simply referred to as Crypto Punks replicated the original 10,000 Cryptopunks, pointing to the exact same single image as the original contract via an on-chain hash.
+
+Rather than asking people to claim these new punks as they had done with the original contract, Larva Labs airdropped them to the original claimants ignoring any trades which had taken place on the previous contract.
+
+This resulted in a slight disparity in distribution, and also effectively lost the original claim date history as the new tokens were all distributed on June 23rd[18].
+
+Most people now had both the V1 & V2 versions, but a few people received V2 Cryptopunks even though they no longer held the V1, and others did not receive the V2 for the V1 they were in possession of.
+
+Many of these trades were replicated by holders in the following days, however, as some original claimants were not regularly checking in for updates there were trades that were never resolved. (One interesting example of this is Cryptopunk #987 - a zombie which was claimed by Larva Labs and sold to a user called Curating Bits for 0.0033 before the bug was discovered, Larva Labs airdropped themselves the V2 token and by this point the value of zombies had already risen.
+
+On Github Curating Bits reached out to Larva Labs explaining that even though people were offering more for the zombie now, it should be given to Curating Bits for the original price.
+
+Larva Labs agreed and transferred the token and as of January 2023 Curating Bits still holds both the V2 and wrapped V1 token for this Cryptopunk.) The Larva Labs website was updated to only interact with the new contract and the V1 contract and Cryptopunks V1 were effectively deprecated.
+
+While both contracts and both sets of Cryptopunks remained functional on-chain, only the V2 contract Crypto Punks were easily accessible and the Cryptopunks V1 were largely forgotten about.
+
+Matt Hall discussing the move to the new contract.
+
+At the R.
+
+A.
+
+R.
+
+E Digital Arts Festival on January 13, 2018[19] Larva Labs co-founder Matt Hall explained the bug and revisited the decision to issue a new contract as a solution, stating this was "very controversial at the time."[20] Hall tells the story how Larva Labs saw two possible solutions to the bug in the V1 contract: 1. create a brand new contract and "attempt to migrate over to it" or 2. make a new contract which refers to the original contract and would handle future sales (this is effectively what would be considered a wrapper today).
+
+Hall stated that they felt the second option would be too complicated and that they were "early enough that they should just go with option 1." He goes on to explain that "there were some people at the time saying this was the wrong thing to do, and we didn't really know because, like, there was this whole question of 'what do you really own?' and these people were saying 'the thing I own is in the first contract, so if you make a new contract then you've blown this whole thing, the idea doesn't work anymore but we were like ugh, that's going to suck and it doesn't make sense to do something that sucks so let's just do it and hope for the best." In addition to the bug, Larva Labs felt the marketplace in the original contract was missing some features, and starting over with a new contract would give them the opportunity to upgrade it as well, so that's what they did.
+
+The V2 "Cryptopunks Market" contract was verified by Etherscan on July 19, 2017.
+
+Classic Punks Wrapper
+
+Cryptopunk V1 9907 in the Foobar Wrapper
+
+With the official Larva Labs Cryptopunk market interacting with the V2 contract exclusively, most people forgot about the V1 contract almost immediately although there are some instances of trades orchestrated between collectors privately.
+
+In 2020 when NFTs started getting a lot of attention, interest in the V1 contract returned and a number of discussions on social media led a small group of people to try and find out what happened to these original Cryptopunks.
+
+The lack of any documentation or web interfaces for the contract made this research slow and difficult.
+
+Additionally in the following years, ERC-721 had become the NFT standard and since Cryptopunks were modified ERC-20 tokens they did not show up on any of the new NFT marketplaces.
+
+On March 25th, 2021 a developer named Foobar published the first Cryptopunks V1 wrapper contract[21] allowing people to wrap their Cryptopunks V1 into ERC-721 tokens which allowed them to be traded on modern NFT marketplaces such as Open Sea and Rarible.
+
+Shortly after that, the "Classic Punks" website was launched[22] providing a front-end interface to Foobar's wrapper, and for the first time since 2017 people began safely buying and selling Cryptopunks V1 on public marketplaces.
+
+Visually, the Foobar wrapper added a small orange stripe to the upper left corner of the wrapped Cryptopunk and used the same blue/grey background that had become the Cryptopunk standard.
+
+At the request of Larva Labs, Open Sea delisted the "Wrapped Cryptopunks V1" collection.
+
+The wrapper received very little public attention with only 270 punks ever being wrapped using Foobar's wrapper and as of September 1, 2024 only 13 punks remain wrapped in this contract, held by 7 wallets.[23]
+
+Cryptopunk V1 4393 in the Frank NFT Wrapper
+
+Recent events
+
+New wrapper
+
+On December 13, 2021, a historical NFT collector named Leonidas released a timeline of Early NFTs on Ethereum on Twitter that included Cryptopunks V1 on it.
+
+Several initial Cryptopunk claimers saw the timeline and realized that the Cryptopunks they held on the V1 contract might still be valuable.
+
+Over the following two weeks, ~100 Cryptopunks V1 were sold in private trades to individual collectors in the historical NFT community which revived the market around them and created interest amongst the historical NFT community.
+
+On January 17, 2022, a developer named Frank NFT published a new updated Cryptopunks V1 wrapper[24] which included more accurate metadata to make searching easier.
+
+This wrapper also discarded the "stripe" used in Foobar's prior wrapper and instead used a lavender background as the differentiator, the color having been decided on by a community vote on Discord.
+
+Kicked off a number of discussions around provenance and authenticity.[25] Larva Labs initially used this wrapper, to wrap and sell several V1 punks[26] on the open market in January 2022 and made a number of conflicting statements about Cryptopunks V1[27] before deciding to take action to try and stop their sales in February.[28] In February 2022 Larva Labs sent a DMCA notice to the NFT marketplace Open Sea in an attempt to prevent the trading of Cryptopunks V1 causing the new wrapper to be delisted.[29][30][31] A legal team hired by a member of the Cryptopunk V1 community began working on an appeal to the DMCA takedown notice almost immediately.
+
+Since the release of the new wrapper holder count has continued to rise month over month with over 4000 Cryptopunks V1 being wrapped as of July 2023.[32]
+
+Rarible marketplace
+
+While Open Sea was distancing itself from Cryptopunks V1 another NFT Marketplace was embracing them.
+
+In May 2022, Rarible announced it had built a white-label marketplace for Cryptopunks V1[33][34] with a statement recognizing that "V1 Punks and V2 Punks occupy their own niches in the NFT space."
+
+Larva Labs V1 sales
+
+Before issuing the DMCA notice in early 2022, Larva Labs founders used Frank NFT's wrapper to wrap and sell 39 Cryptopunks V1 for a total of 210Ξ (over $600k at the time).
+
+This was done through Larva Labs co-founder Matt Hall's personal wallet and not the main Larva Labs wallet so initially, the sales went unnoticed.
+
+When it was uncovered that Larva Labs was publicly disavowing the project while privately selling them for hundreds of thousands of dollars in profit they admitted these sales delegitimized their claims that Cryptopunks V1 were not "real" and immediately apologized,[35].
+
+To try and make amends, Larva Labs promised to make a donation to The Rainforest Foundation for an amount comparable to 210 ETH.
+
+The 39 Cryptopunks V1 which were originally claimed by Matt Hall in 2017 and sold by him in 2022 have come to be known as the "Rainforest Punks" by collectors.
+
+Yuga Labs acquisition
+
+With no prior notice, on March 11, 2022, Larva Labs announced that they had sold the entirety of their Cryptopunks and Meebits projects (including all intellectual property, trademarks, copyrights as well as their complete NFT holdings) to Yuga Labs, the founders of Bored Ape Yacht Club.[36] This announcement was followed by a statement from Yuga Labs that they would be giving holders of both projects commercial rights to their NFTs[37] and that they would not be pursuing any of the outstanding DMCA notices which had been filed by Larva Labs.
+
+These statements resulted in a noticeable uptick in sales of both projects.[38] On May 7th, 2022 the transfer of ~500 Crypto Punks (V2 contract) and 1,082 Cryptopunks V1 from Larva Labs' wallet to Yuga Labs was completed, and the entire Cryptopunks marketplace was moved to the new Yuga Labs owned server.
+
+In June 2022 the Head of Digital at Christie's, Noah Davis, announced he was leaving to join Yuga Labs to take up the role of Brand Lead for Cryptopunks, with the expressed intention of establishing Cryptopunks in the fine art world.[39][40]
+
+Open Sea relisting
+
+The DMCA appeal filed by the Cryptopunks V1 community legal team was still in process when the acquisition was announced, however, the statement from Yuga Labs revoked the takedown notice, and Open Sea moved ahead with relisting the Cryptopunks V1 collection in March 2022.
+
+As of July 2023 the official listing on Open Sea has seen over 36,000 ETH in volume.[41]
+
+Commercial rights & lingering questions
+
+On August 15th, 2022, Yuga Labs published a license agreement giving Cryptopunk holders commercial rights to their punks and stated that this license only applied to the holders of punks from the V2 Crypto Punks contract.
+
+Cryptopunks Brand Lead Noah Davis further clarified that Yuga Labs has no current plans for Cryptopunks V1 and commercial rights were not being extended to holders of punks from the V1 Contract.[42] While the license resolves some specific questions regarding Yuga Labs' intentions, larger questions about the IP of generative NFT collections remain.
+
+Copyright Lawyer Brian L Frye has written a paper[43] that questions if collections like Cryptopunks can even be copyrighted in the first place, noting that a lack of uniqueness and human involvement in the final product would not stand up to US Copyright standards.
+
+Larva Labs did register a copyright for one single image containing all 10,000 Cryptopunks in 2017 which is referenced in Yuga Labs' new license, however, it's unclear if that would be applicable to the individual punks in the collection.
+
+Furthermore, as part of a deep dive into NFT collection licenses and terms, Galaxy Digital Research has concluded[44] that many NFT publishers including Yuga Labs have misrepresented which rights are conveyed to NFT holders.
+
+3983 theft
+
+On September 9th, 2023 the X (formerly Twitter) account of Vitalik Buterin was hacked and a drainer phishing link was posted resulting in a significant amount of stolen assets[45].
+
+Unfortunately one of those who fell victim to the hack was Bokky Poobah resulting in the loss of Cryptopunk #3983[46] which was the first Cryptopunk ever claimed by a non-Larva Labs wallet.
+
+It was sold a few hours later for 155eth.
+
+What happens with stolen NFTs is still a complicated situation, however Bokkypoobah declined efforts to help get this punk back, taking responsibly for the mistake and wishing the new owner well[47].
+
+Additionally they noted that the Cryptopunk which was stollen was from the V2 Crypto Punks contract, and that they still owned the V1 token that they originally claimed[48].
+
+Supply and rarity
+
+"Orphans" Cryptopunks V1 for which there are no V2 counterpart.
+
+While Cryptopunks is a 10,000-piece collection, there will never be 10,000 Cryptopunks V1 in circulation.
+
+As of August 2022, 444 pieces are confirmed to be in lost wallets and it is assumed more may be lost but not yet confirmed.
+
+Additionally, 1,082 Cryptopunks V1 are currently owned by Yuga Labs and two other holders own roughly ~1,000 each.
+
+As of July 2023, over 4000 Cryptopunks V1 have been wrapped using Frank NFT's wrapper.
+
+As there are an unknown number of Cryptopunks V1 which are in lost wallets (10,000 Meebits were made free to claim for Cryptopunk holders and only 8,000 were claimed so there is speculation that 2,000 Cryptopunks are lost), the current expectation is that only between 6,000-8,000 will ever be tradable.
+
+Rarity is currently calculated by using the full 10,000 Cryptopunks set, however, there are several community-led projects currently in development with the intention to recalculate rarity for only the actively tradable V1 Punks.
+
+Survivor punks
+
+There are a number of Cryptopunks V1 that do not have a corresponding V2 Cryptopunk as the V2 version has been intentionally or accidentally sent to the burn address, the Crypto Punks contract address, or another unaccessible address.
+
+These "Survivor Punks" are 2317, 2838, 3493, 3808, 5449, 7755, 685, 5041, 8611 & 9146.
+
+The website Burnedpunks.com was set up to document the stories around these punks.
+
+In November 2022, Punk holder 0x Munger[49] released a report stating that 192 V2 Cryptopunks are confirmed to be lost[50], primarily concentrated in 2 wallets which were lost in a house fire.
+
+At least some of these have matching Cryptopunks V1 which have been wrapped and are in different wallets, so there may be considerably more V1 Survivor than previously known.
+
+These punks were originally referred to as "Orphan Punks" however that naming isn't accurate and "survivor" is bring used more often now.
+
+Rainforest punks
+
+The 39 Cryptopunks V1 which were originally claimed by Matt Hall in 2017 and sold by him in 2022 have become part of the V1 story and are now collectively known as "Rainforest Punks." While these are not yet accounted for in any of the rarity charts, collectors have placed a premium on them, and holding one of these punks entitles the owner to a special role on the Cryptopunks V1 Discord Server.
+
+The Rain Forrest Punks are: 1041, 1044, 1060, 3018, 3119, 3122, 3128, 3134, 3214, 3222, 3310, 3314, 3410, 4025, 4547, 4827, 4971, 5226, 5340, 5523, 5921, 6314, 6318, 6446, 6545, 6548, 6909, 6934, 7276, 7277, 7279, 7442, 7642, 7742, 8139, 8682, 8781, 8878, and 9622.
+
+"Rain Forrest Punks" Cryptopunks V1 sold by Matt Hall while Larva Labs was publicly criticizing the project.
+
+Highest sales
+
+Price (USD)
+
+Cryptopunk V1 ID
+
+Image
+
+Date
+
+$2.7 million
+
+#5905
+
+File:Cryptopunk V1 Alien 5905.png
+
+February 2022
+
+Price (USD)
+
+Cryptopunk V1 ID
+
+Image
+
+Date
+
+$450k
+
+#9909
+
+File:V1Cryptopunk 9909.png
+
+April 2022
+
+References
+
+↑ Cryptopunk Attributes
+
+↑ 10k Cryptopunks Image
+
+↑ Cryptopunks price history, Cryptoslam
+
+↑ Cryptopunks NFT bundle goes for $17 million in Christie’s auction, Techcrunch, 2021, Accessed 20 August 2022.
+
+↑ Post by Matt Hall, Reddit, June 9 2017
+
+↑ #3983 Hoodie Nerd Glasses
+
+↑ 0x Rodo Tweet about Bokky
+
+↑ What Are PFP NFT Collections?
+
+The 2D Avatars Taking Over Twitter, Decrypt, 2022
+
+↑ This ethereum-based project could change how we think about digital art, Mashable, 2017, Accessed 18 August 2022.
+
+↑ 10k Cryptopunks Image
+
+↑ Niftynaut Twitter, 2023
+
+↑ Interview w/ Mr 703, Loop News
+
+↑ Ep. 1 - The man who had 7 Alien Cryptopunks | Larva Labs History Explained, Blizor on You Tube, 2021
+
+↑ Rare Alien Cryptopunk NFT Sells for $23.7 Million, Crypto Briefing, 2022
+
+↑ Cryptopunks Copyright, USPTO Reports
+
+↑ [1]
+
+↑ Comparison between the V1 & V2 Cryptopunks Contract, Diff Checker
+
+↑ "I know, for a fact, that I claimed on 6/11/17, but that's not what the site says" Original claimer Guy Walkin on Twitter
+
+↑ R.
+
+A.
+
+R.
+
+E Digital Arts Festival, Splash That Events, Accessed 22 August 2022
+
+↑ Matt Hall speaking at R.
+
+A.
+
+R.
+
+E Digital Arts Festival, You Tube, Accessed 22 August 2022
+
+↑ Foobar V1 Wrapper, Etherscan
+
+↑ Foobar Wrapper Interface , Classic Punks
+
+↑ Foobar Wrapper Balance, Etherscan
+
+↑ Frank NFT's V1 Wrapper, Etherscan
+
+↑ Battle for authenticity heats up in world's most popular NFT collection, Cointelegraph, 2022
+
+↑ Why Larva Lab’s Decision to Dump V1 Cryptopunks Is a Problem, NFT Now, 2022
+
+↑ What Are The Cryptopunks V1?
+
+And, How Can They Disrupt The Market?, News BTC, 2022
+
+↑ Cryptopunks Controversy: Creators Apologize for 'V1' Ethereum NFT Sales, Decrypt, 2022
+
+↑ Open Sea once again delists Cryptopunks v1 as legal battle heats up, Cointelegraph, 2022
+
+↑ Larva Labs forces Open Sea to delist Cryptopunks V1 NFTs, Cryptoslate, 2022
+
+↑ ‘All eyes are on it:’ Cryptopunks at center of copyright legal dispute, Forkcast, 2022
+
+↑ V1 Cryptopunks Stats, Crypto Slam
+
+↑ “I'd love to hodl it as an heirloom”: We asked V1 Cryptopunk owners about their (forever) PFPs, Rarible, 2022
+
+↑ ‘V1’ Cryptopunks Move on With Rarible Marketplace After Larva Labs Dispute, Decrypt, 2022
+
+↑ Cryptopunks Controversy: Creators Apologize for 'V1' Ethereum NFT Sales, Decrypt, 2022
+
+↑ Bored Ape Yacht Club Creators Just Bought Cryptopunks and Meebits, NFT Now, 2022
+
+↑ Yuga Labs acquires Cryptopunks and Meebits and gives commercial rights to the community, Mirror, 2022, Accessed 18 August 2022.
+
+↑ Cryptopunks Ethereum NFT Sales Surge 1,200% After Bored Ape Creators Acquire IP, Decrypt, 2022
+
+↑ {https://www.artsy.net/article/artsy-editorial-noah-davis-leading-christies-beeple-sale-joining-nft-powerhouse-yuga-labs How Noah Davis Went from Leading Christie’s Beeple Sale to Joining NFT Powerhouse Yuga Labs], Artsy, 2022
+
+↑ NOAH DAVIS CHRISTIE’S HEAD OF DIGITAL TO LEAVE FOR YUGA LABS + Cryptopunk S, FAD Magazine, 2022
+
+↑ [sort By=UNIT_PRICE&search[sort Ascending]=true Official V1 Punks], Open Sea
+
+↑ 'No Current Plans' for Scrapped V1 Cryptopunks NFTs, Says Yuga Labs, Decrypt, 2022, Accessed 19 August 2022.
+
+↑ Are Cryptopunks Copyrightable?, Pepperdine Law Review, 2022, Accessed 19 August 2022.
+
+↑ A Survey of NFT Licenses: Facts & Fictions, Galaxy Digital Research, 2022, Accessed 19 August 2022.
+
+↑ "$690,000 hack of Vitalik Buterin’s X account includes theft of $244,000 Crypto Punk NFT" Fortune, 2023
+
+↑ "WARNING!
+
+I JUST LOST A FEW PUNKS!" Bokkypoobah on X
+
+↑ "To the new owners of #1741 and #3983, please enjoy them!" Bokkypoobah on X
+
+↑ "I still have the first non-Larva Labs claimed Crypto Punk - V1 #3983.
+
+Phew!" Bokkypoobah on X
+
+↑ 0x Munger on Twitter
+
+↑ Lost Punks Crypto Native Capital
+
+Retrieved from "https://nfthistory.mywikis.wiki/w139/index.php?title=Crypto Punks_V1&oldid=1725"
+
+Category: Pages with broken file links

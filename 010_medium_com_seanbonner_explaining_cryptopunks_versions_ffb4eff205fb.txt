@@ -1,0 +1,181 @@
+Title: Explaining Cryptopunks Versions. Since it’s been a topic I’ve been… | by Sean Bonner | Medium
+
+URL: https://medium.com/@seanbonner/explaining-cryptopunks-versions-ffb4eff205fb
+
+Explaining Cryptopunks Versions Sean Bonner·Follow8 min read·Feb 13, 2022--Listen Share Since it’s been a topic I’ve been yapping about recently a few people asked me for a quick explainer on all the Cryptopunks V1/V2 stuff so the other night I did just that in a Twitter thread but I thought I’d turn it into a blog post as well for easier future reference.
+
+If you’ve spent 4 seconds in the NFT space or 4 seconds near the NFT space or just know some people have some crypto art or something you’ve seen Cryptopunks so I’m going to assume you know what I’m talking about when I say “punk” in this context.
+
+There’s no questioning the influence and significance of cryptopunks, there are a bazillion derivatives and they have made headlines for selling for bazillions of dollars.
+
+Hours ago in fact Punk #5822 sold for 8000Ξ which today converts to just shy of $23 Million USD.
+
+So yeah, they are pretty famous, and it’s important to understand that fame happened almost exclusively in 2021.
+
+Cryptopunks were actually released in 2017 and for most of that time very few people cared about them.
+
+Towards the end of 2020 people really started going after them and in 2021 they went nuts.
+
+But the cryptopunks everyone thinks of are actually the second version (V2).
+
+Going back to 2017, a company called Larva Labs put Cryptopunks online as free to claim and promised the ability to trade/buy/sell them after they were all claimed.
+
+It took a few days/weeks for that to happen and once they were all claimed people started trying to trade them.
+
+But there was a problem.
+
+A bug in the code meant that if you tried to sell a punk the buyer got the punk AND the eth from the sale, leaving the seller with nothing.
+
+This is obviously a problem and as soon as it was found Larva Labs said “wait!
+
+Don’t trade them yet” and started working on a fix.
+
+Because things on the blockchain are immutable they couldn’t really “fix” the punk that were already out in the world, so they made new ones.
+
+They airdropped the new (V2) punks to everyone who had claimed the original (V1) punks and figured that was that.
+
+Potentially important detail: Larva Labs didn’t send the new punks to the the current punk holders — they sent them to the claimers.
+
+So if you claimed a V1 punk and gave it to a friend, you got the V2 punk, they didn’t.
+
+Because the V1 punks were not really sellable everyone kind of forgot about them, and all focus was put on the V2 ones that people could easily trade.
+
+It’s worth noting that punks predate the ERC-721 NFT standard we know and love today.
+
+Cryptopunks are in fact ERC-20 tokens.
+
+In order for Cryptopunks (or any other pre-ERC-721 NFT like Mooncat Rescue) tokens to be traded on NFT marketplaces like Open Sea they need to be wrapped inside of an ERC-721 token.
+
+Wrapping is confusing but also really straight forward.
+
+It’s just putting one token inside of another.
+
+You’ve probably seen WETH which is just Wrapped ETH.
+
+Here are a bunch of V2 Cryptopunks that have been wrapped for example, and here’s Larva Labs recognizing them.
+
+That’s apparently an important detail as some have suggested that wrapping changes or somehow negates the NFT that is being wrapped, which obviously isn’t the case.
+
+The socks your mother bought you for your birthday don’t cease to be socks when she wraps them in wrapping paper — same idea here.
+
+Anyway, for years people were happily buying and selling V2 cryptopunks both wrapped and unwrapped.
+
+But they just called them “Cryptopunks” and not “V2 Cryptopunks” because they were the only ones being traded so it was obvious what you meant.
+
+But in 2021 some people started working on a wrapper for the V1 Cryptopunks so they could be traded as well.
+
+This is where things get interesting.
+
+If you look at the incredible timeline Leonidas has assembled you’ll note that Cryptopunks is the very first 10k Avatar project on the Ethereum blockchain.
+
+Despite claims made by lots of people, notably Larva Labs themselves, Cryptopunks are not the first NFT, but they are the first 10k avatar project.
+
+But now suddenly you have 2 Cryptopunk collections in motion.
+
+Both made by the same company, both pointing to the same art.
+
+Released within weeks of each other.
+
+Fun fact, the V1 contract calls them “cryptopunks” but the “fixed” V2 contract calls them “cryptopunksmarket” — anyway, with V1s being safely wrapped inside an ERC-721 wrapper they can now be traded, and people started trading them.
+
+Anyone who has spent any time around collectors knows that an error or a misprint or a fuckup is always super desirable — and that’s how people started to think of the V1s.
+
+They are this mostly forgotten mistake, which is appealing to some people.
+
+And especially if you have cryptopunks because they are historically important as a lot of people claim to, then this original version of the cryptopunks released a few weeks earlier is SUPER INTERESTING! (all caps for emphasis).
+
+This is where things which are seemingly clear get really messy quickly.
+
+Larva Labs has an unclear relationship with the IP of the Cryptopunks.
+
+I wrote a bit about this last year in relation to their reactions to some derivative projects.
+
+Long story short on that, when Ryder Ripps made his derivative Cryptopunk Larva Labs sent a DMCA notice to Foundation, Ryder contested it and Larva Labs couldn’t support their infringement claim and the DMCA was dropped.
+
+That hasn’t stopped them from sending lots of DMCA notices though.
+
+Most people never appeal the DMCA so that is the end of it, but since Ryder did and won his appeal, it’s suddenly very interesting and there is question if Larva Labs could even own the IP at all.
+
+From their end, Larva Labs didn’t have a license in place before they distributed them and have taken different and conflicting positions on the matter over the years, so there’s just nothing clear to fall back on which is why it’s such a grey area. 19/ Anyway, jumping back to now — V1 and V2 Cryptopunks are now on the market.
+
+Anyone with a V1 cryptopunk who couldn’t trade it before can now safely wrap it and then sell it.
+
+Guess who had a lot of V1 Cryptopunks?
+
+Larva Labs.
+
+In what is now largely seen as a “bad move” Larva Labs secretly wrapped a bunch of V1 cryptopunks and sold them for a couple hundred ETH.
+
+Then went on the attack saying that V1 punks were not legitimate.
+
+As an aside, last year I wrote about how Blockchains have the potential to become social archives, and the documented provenance for each NFT might end up telling interesting stories about the history of specific NFTs and that’s exactly what just happened here.
+
+The 39 V1 Cryptopunks that were wrapped and sold by Larva Labs are already being referred to as the “rainforrest punks” and have become especially desirable among some collectors in what is basically the Streisand Effect for Web3.
+
+So Larva Labs then sent a DMCA to Open Sea as they have been known to do, and Open Sea complied by taking down the listing for the V1 punks.
+
+Now if you’ve been following along this far you know that V1 punks were made by Larva Labs.
+
+So they kind of just DMCA’d themselves.
+
+This is akin to Nike making shoes with a white swoosh, selling them and then deciding they want the swoosh to be red and then claiming infringement against someone who bought the white swoosh Nikes trying to resell them on ebay.
+
+In other words it makes no sense.
+
+V1 punks were made and sold by Larva Labs.
+
+They can’t decide after they are already sold that they don’t like them and then claim they aren’t real, or that the secondary market is infringement.
+
+So of course the DMCA notice was appealed.
+
+That happened yesterday, so now Larva Labs has 10 days to respond (or not) until we get to the next chapter in however this plays out.
+
+At the moment V1 punks are not being sold on Open Sea but are being sold on their own marketplace and on Looks Rare.
+
+I don’t know if those sites received DMCAs and just ignored them or if they didn’t receive anything, doesn’t really matter though.
+
+What happens next however is going to have very serious implications no matter which way it goes.
+
+If the DMCA is upheld the secondary market for almost all NFTs is suddenly in legal question.
+
+If the DMCA is dropped Larva Labs will have to accept that their flagship IP isn’t as locked down as they thought, and that there are now 2x as many cryptopunks out there.
+
+Interestingly enough, V2 punk owners have been complaining about how Larva Labs has been handling IP for quite a while now leading a number of high profile punk owners to sell theirs in protest.
+
+So in some ways V1 & V2 owners have a common foe.
+
+Though maybe foe is too strong a word.
+
+Larva Labs did make these cool avatars which everyone loves, even if their community relations/communication has been a bit lacking since then.
+
+And a lot of V2 owners actually own V1s as well, so it’s not really 2 different audiences.
+
+March 2022 Update: In an unexpected surprise turn of events Larva Labs announced that they sold the IP for Crypto Punks to Yuga Labs, producers of the Bored Ape Yacht Club, who immediately announced that they would not be pursuing any of the DMCAs filed by Larva Labs and also that they would be granting commercial rights to Crypto Punk owners.
+
+As part of the deal Larva Labs transferred their Crypto Punks to Yuga, including some 1000 V1 punks.
+
+Almost immediately the V1 collection was reinstated on Open Sea.
+
+But what about V3?
+
+V3 Punks is a totally unrelated project created by unrelated fans.
+
+It’s just a fun nod to the whole project distinguishing itself as different but also promoting unity and joy, which is kind of nice.
+
+Personally I’ve really enjoyed the very rich derivative world that Cryptopunks has spawned and I think the project is incredibly significant.
+
+I’ve bought pieces from a lot of the so called “shitpunk” derivative projects over the last year.
+
+I also really nerd out about the IP stuff which is obvious from last years article.
+
+I bought some V3s because I think it’s fun and I recently traded an NFT I received for free for a V1 because I think it’s a cool piece of history.
+
+I have no idea where this will go, or how that will impact values of anything.
+
+None of what I’m talking about should be seen as endorsements or speculation, but I find it super fascinating and look at it kind of like collector memorabilia.
+
+Anyway, that’s my quick catch up.
+
+We’ll see what happens next!
+
+Originally published at https://blog.seanbonner.com on February 13, 2022.

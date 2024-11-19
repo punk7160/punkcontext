@@ -1,0 +1,111 @@
+Title: CryptoPunks: Whatâs Behind Their Unstoppable Rise? | Nansen
+
+URL: https://www.nansen.ai/research/cryptopunks-whats-behind-their-unstoppable-rise
+
+What are Crypto Punks?
+
+Crypto Punks is a collection of 10,000 unique collectible characters that is widely regarded as the beginning of todayâs Crypto Art movement.
+
+On 23 June 2017, when Crypto Punks was released by Larva Labs, anyone could claim a Crypto Punk for free.
+
+Fast forward to today, Punksâ prices range between 100.5 ETH ($381k USD) and 4,200 ETH ($7.58 M USD), making it the largest NFT collection with a market cap of 1,262,143 ETH ($4.5 B USD) according to Nansen.
+
+Price range since inceptionÂ Whatâs Behind Crypto Punksâ Value?Â Many observers struggle to make sense of prices collectors have recently paid to buy Crypto Punks and see the formation of a speculative bubble.
+
+Others believe Crypto Punksâ value is driven by factors above and beyond the hype around NFTs, and that the recent trend may just be the beginning of a wave that is revolutionizing art collecting.Â In this article, we elaborate further on the underlying drivers behind Crypto Punksâ value and potential trends one could expect in the short and long term.
+
+Fundamental Drivers Behind Crypto Punksâ Valuation The Narrative as the First NFT Project in History The first fundamental driver behind Crypto Punksâ valuation is its narrative as being the first NFT project in history.
+
+This narrative makes Crypto Punks the only one collection of its kind in the NFT space.
+
+It sounds impressive, but what does it mean concretely to be the first NFT project and why is this relevant?
+
+This means that it is the first project to have used blockchain technology to represent the ownership of unique assets.
+
+This has had three groundbreaking effects:Firstly, Crypto Punks have revolutionized art and the art market.
+
+By leveraging the blockchainâs proof of ownership technology, Crypto Punks have crossed out the third party involved in art trading.
+
+Artists can now interact with their audience directly to buy and sell their work.
+
+The application of blockchain technology to art has particularly enabled digital art and collectibles to be scarce in the digital world as their replicability had prevented their existence in a rare and valuable way.Â Secondly, the model set by Crypto Punks has more generally allowed the emergence of a new asset class: NFTs.
+
+Although art is one use-case, there are other non-fungible assets (jpegs, memes, certificates, patents etc) that leverage the proof of ownership technology to be scarce and valuable.Â Thirdly, they have inspired the creation of the ERC-721 token, a token standard that supports non-fungible assets, and are even referenced in the latterâs white paper.Â Scarcity Not only are Crypto Punks culturally significant in the NFT space but they are also scarce.
+
+If there was no cap of 10k that made it difficult to acquire one, they would not be valuable.Â Crypto Punks are scarce at the collection level but also within the collection as some Punks are considered scarcer than others.
+
+The value of a Punk depends on its type, number of attributes, combination of attributes and subjectivity.
+
+There are 5 Punk types (alien, zombie, ape, male, female), 87 different attributes and a maximum of 7 attributes per Punk.
+
+Generally, the types that are considered more valuable are alien, zombie and ape.
+
+As a matter of fact, the average price of an alien is 16 times greaterÂ than the average price of a male Punk.
+
+In terms of attributes, Punks that have 0, 6 or 7 attributes are usually perceived as more valuable.Â The traits that are the most sought after are often the ones that are the oddest and the most Punk like.
+
+Currently, the traits with the highest average price are as follows:Beanie Pilot Helmet Hoodie Tiara Choker Top Hat Orange Side3D Glasses Welding Goggles Gold Chain Itâs important to note that the traits that are most valuable are not always the scarcer ones.
+
+If we consider the value of these traits over time, itâs also interesting to see that the popularity of traits varies over time.Â Top 10 traitsâ value over time As indicated by the chart above, some of the traits that were not particularly in demand like the Hoodie and Pilot Helmet have received renewed attention.
+
+It is therefore important to keep up with traits-related discussions in the Crypto Punks community (Discord, Twitter etc) and use the recent history of sales as a reference.
+
+Social Currency within the OG Community As discussed above, Crypto Punks have a unique narrative and limited supply.
+
+This scarcity is met by demand which stems from the fact that Crypto Punks constitute a social currency within the OG community and the NFT space.
+
+When purchasing a Crypto Punk, not only are you buying an image but also a membership to one the coolest and most OG clubs in the NFT space.
+
+Membership in this club is powerful.
+
+It conveys the message that you were in early, that you recognize the historical significance of the project and that you are notable in the NFT space.
+
+It also unlocks access to social networks, exclusive chats, free claim on other NFT collections (like a Meebit at the time of launch).Â Increased demand from OGs and entry of new market participants will drive price up Over time, we will see increased demand from different market participants.
+
+The OGs will reinvest their profits in Crypto Punks or at least hold the ones they already own.
+
+They are experienced collectors.
+
+As indicated below, the top 5 holders of Crypto Punks are predominantly original collectors and still own 14% of the total number of Crypto Punks.Â Top 5 holders of Crypto Punks However,Â a look at the evolution of trades for different types of NFT collectors over time also reveals that the trades by âLegendary NFT collectorsâ are accounting for less and less of the overall volume being traded. (Legendary collectors represent the top 0.1% collectors in terms of ERC721 token transactions).Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Types of NFT collectors buying Crypto Punks over time Effectively, while the collection was mostly concentrated in the hands of whales at the beginning, the number of Crypto Punks owners has been increasing over time, indicating that the collection has become more decentralized and healthier.
+
+There are now about 3,000 Crypto Punks owners.
+
+Total number of unique addresses that own Crypto Punks over time Amongst these new entrants, there has been high net worth individuals, investors, celebrities and influencers.
+
+We can expect that they have been incentivized by short/long-term profit, and the social currency associated with Crypto Punks.
+
+Two other trends are also noticeable.
+
+NFTs have increasingly been capturing the attention of institutional investors as indicated by Visaâs purchase of Punk 7610 last week.
+
+In addition to this, a whole new share of market participants has been unlocked by the advent of the fractionalization of NFTs, which enables multiple people to own fractions of a single NFT.
+
+Growth of the NFT market as a whole reinforces Cryptopunks as the first of its kindÂ As other successful collections like Autoglyphs, Bored Ape Yacht Club and Art Blocks, emerge and trace back their origin to Crypto Punks, Crypto Punks will appreciate.Â As the NFT space matures and merges with the metaverse, VR and AR, Crypto Punks will become a part of something bigger and gain utility.Â There has also been an increasing pollination of Crypto Punks across different media and industries with for example Crypto Punks comics, Crypto Punks inspired clothes.
+
+Some members of Flamingo DAO have even created a 3D rendering for their Punk to exist in the metaverse while Larva Labsâ deal with United Talent Agency means that they will soon be receiving film, TV and other media representation.
+
+This cross-pollination will make Crypto Punks more popular.
+
+Increased interest will be met by scarcity, and Crypto Punks will appreciate.
+
+Crypto Punks has to become a store of value Since there can only be one OG NFT project, Crypto Punks will remain unique and a social currency within the NFT space.
+
+As the NFT space matures and new market participants seek exposure to Crypto Punks, demand for the collection will grow.
+
+When this increased demand meets the 10k cap of Crypto Punks, Crypto Punks will appreciate.
+
+Over time, Punks will become a store of value and certainly the most resilient in times of bearish NFT market.
+
+Conclusion In conclusion, the extraordinary rise in value of Crypto Punks can be explained by fundamental drivers such as their narrative as the first NFT project in history, scarcity and associated social currency.
+
+The elements above will continue to drive the value of Crypto Punks to great heights.
+
+While we can expect some short-term volatility that mirrors the ups and downs of the crypto space, the value of Crypto Punks is only going one way in the long term.
+
+Crypto Punks will remain one of the most established Bluechip NFT collections.
+
+This is only the beginning.
+
+The NFT space is here to stay, and Crypto Punks will be forever regarded as the origin of NFTs and capture more value over time.
+
+Although the collection has seen an exceptional increase in value, it may well be that by 2025, Punks will be worth a lot more.

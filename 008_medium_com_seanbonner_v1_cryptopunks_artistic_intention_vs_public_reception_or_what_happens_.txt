@@ -1,0 +1,179 @@
+Title: V1 Cryptopunks: Artistic Intention Vs Public Reception, or What Happens When Art Takes On A Life Of Its Own | by Sean Bonner | Medium
+
+URL: https://medium.com/@seanbonner/v1-cryptopunks-artistic-intention-vs-public-reception-or-what-happens-when-art-takes-on-a-life-of-ef373363e535
+
+V1 Cryptopunks: Artistic Intention Vs Public Reception, or What Happens When Art Takes On A Life Of Its Own Sean Bonner·Follow10 min read·Apr 7, 2023--Listen Share When we talk about Cryptopunks and the controversy surrounding the V1 contract, there’s always the question of respecting the artist’s wishes.
+
+In general I agree that an artist gets to decide what their art is and isn’t as long as they are working on it, but once they release that work to the public it’s out of their hands.
+
+Public reception to a piece of art and the artists intention are two wholly separate things.
+
+With Cryptopunks this gets a even muddier because we aren’t just talking about a difference between intention and reception, we’re talking about hindsight and ongoing revisions to a narrative.
+
+The artist’s intention when the work was released and how they feel about the work several years after the fact may not be the same thing and shouldn’t be conflated.
+
+Add to this a healthy dose of misinformation and misunderstanding, even from supposedly authoritative sources, and you have widespread audience confusion.
+
+I hope to help clarify some of that a bit with this article.
+
+It would be impossible to address every rumor, however there are two core themes I hear time and time again; Firstly that V1 Cryptopunks were never intended to be released (this takes on various forms: I’ve heard claims that they were a beta release, only a prototype, or as I’ve just heard recently that they were an unreleased experiment, stolen years later by hackers straight from the artists hard drive) and secondly that the “artists wishes” are the end-all-be-all when it comes to art appreciation.
+
+So let’s unpack this.
+
+As a refresher Cryptopunks were released to the public on June 9th 2017 as a free claim.
+
+They were fully claimed by June 18th which was also when a bug was discovered in the contract, a new contract was published on June 23rd.
+
+The “new” Cryptopunks were airdropped to people who had claimed the “old” cryptopunks and with minor exception until 2022 anytime anyone talked about Cryptopunks they were referring to the “new” contract.
+
+The primary problem with all iterations of the “they were never intended to be released” story is that it erases everything that happened between June 9th and June 23rd.
+
+On June 16th Mashable published an article about Cryptopunks and both Matt Hall and John Watkinson (collectively Larva Labs) are quoted in it.
+
+It’s very clear from the article that they are talking about a project that has already been released, not a project they are planning to release in the future.
+
+A quick read of this thread by Matt Hall in the r/ethereum board on Reddit posted on June 9th, 2017 should remove any question that the project was released, Matt even explains how to claim a punk in the comments.
+
+It’s entirely safe to say that had a bug not been discovered this would have been the single Cryptopunks collection.
+
+Just as a revised or expanded edition of a book doesn’t magically undo the release of the earlier version, the new Cryptopunks contract published on June 23rd doesn’t change the fact that separate contract was released to the public 2 weeks earlier.
+
+I feel like I need to be exceptionally clear here — I’m not arguing about which contract is “the real one” or challenging the fact that the V2 contract is unquestionably the official version, but the often repeated claim that the V1 contract was never intended to be released is entirely false.
+
+What is true is that when Larva Labs released the V2 contract they assumed because of the bug in the V1 contract which prevented sales, people would simply lose interest and forget about it.
+
+And for a while that is what happened, but the thing about code and bugs is that people often find ways to patch them, and the thing about history is people like the stories.
+
+So while it’s fair to say that after the release of the V2 contract the artists did not expect the V1 contact to be traded, it’s incorrect to say that at no point did they intend to release the V1 contract.
+
+Skip ahead a few years to 2022 when people started trading V1 Cryptopunks (thanks to a newly released wrapper that patched the bug), there’s no question at all that the artists did not want this to happen and they stated as much publicly.
+
+Surely the artists position on their own art is important, right?
+
+Well, kind of… but on some level this is like a parent raising a child, they have hopes and dreams for their children but at some point their children grow up and move out and have their own lives independent of their parents wishes.
+
+When an artist puts work into the public, what happens after that is not really something the artist gets to control.
+
+It’s clear from statements Matt & John made in 2017 that they were intentionally publishing something onto the blockchain in a way that was immutable and out of their hands, and part of the “experiment” as they called it was to see what people would do with it.
+
+I think there’s a very good argument to be made that the artists intention — part of the art in fact — was very much for the work to have a life of it’s own.
+
+The friction arises because the path that work eventually took wasn’t what they’d initially imagined.
+
+Go!
+
+Be free!
+
+Wait, no!
+
+Not like that!!
+
+But let’s abstract this argument a bit and look for other examples in art and culture where a creator made something, released it to the public, and then changed their mind.
+
+This happens all the time in fact, but I picked 3 well known examples to illustrate a variety of outcomes and interpretations, and asked my Twitter followers about them.
+
+Blade Runner.
+
+In Philip K Dick’s book “Do Androids Dream of Electric Sheep” the main character Rick Deckard is unquestionably human.
+
+For the movie adaptation screenwriter David Peoples made that much more questionable, and in the film itself which famously has several revisions of its own, director Ridley Scott is quite forcefully painting Deckard as a replicant.
+
+Public opinion has largely accepted that position, even though it’s distinctly not what the artist intended.
+
+Now you could argue that the movie and the book are different in many ways, and given that they were made by different people one is more accurately a derivative, or inspired by the other, rather than being a direct reflection of it and I’d probably agree with you, but I think it’s an important example none the less as it shows that most people aren’t even aware of how the character was originally written.
+
+But what about an artist changing their own work?
+
+George Lucas did exactly that with Star Wars.
+
+The 1997 “Special Edition” made a number of significant changes to his 1977 film, primarily in the way of visual effect but also to the story itself.
+
+The most famous of these is the Cantina scene where Han Solo kills Greedo.
+
+In the original film, Han shoots first which casts him in the role of aggressor.
+
+In the update, Greedo shoots first and Han dodges and returns fire in self defense.
+
+This is a drastic shift in narrative for a beloved character, and while the “official” version has Greedo shooting first, and Lucas, the artist, has disavowed the original storyline, it’s quite clear the public is not on board with that.
+
+Even though all currently available versions of the film have this update, (this is an important detail — you can not buy or rent a current day production of Star Wars with Han shooting first) fans still insist Han shooting first is more authentic.
+
+I say fans intentionally here because I’m talking about people who love Star Wars, love the characters and love the universe.
+
+These are not haters or critics, they are fans.
+
+Fans who love a piece of work created by an artist, and simply disagree with something the artist later changed.
+
+This is important to note because I often see people who speak fondly of V1 cryptopunks being accused of hating or trying to fud the V2 or “official” Cryptopunks collection and I don’t believe the to be true.
+
+I think these are fans, people who love the art, and simply disagree with the artist’s current position.
+
+Another film example is Steven Spielberg who, for the 20th anniversary of E.
+
+T.
+
+The Extra Terrestrial digitally altered some scenes where FBI agents with guns are chasing children.
+
+Spielberg said that in modern context that could be interpreted the wrong way, and he replaced the guns with walkie talkies.
+
+Again here fans of the work had their own opinions about this change, some welcomed it and others argued this changed the entire feel of the film.
+
+They remembered being children themselves and watching these scenes and being terrified for the young characters in the film, a feeling that was lost with the FBI agents suddenly being less threatening.
+
+Years of debate raged on and for the 30th anniversary Spielberg actually put the guns back into the film and stated that he was disappointed in himself for making the change in the first place.
+
+In my poll this has a less decisive public opinion with an almost even split about which way it happened, and I think this illustrates well the separation between artist and audience.
+
+These are well known examples but history is full of this kind of thing.
+
+From J.
+
+D.
+
+Salinger pulling his writings from publications after the popularity of Catcher In The Rye to Kanye West continuing to change his album Donda after it was released. “Done” is a fairly flexible concept to many creatives.
+
+To belabor the point, artists intentions change over time.
+
+And people may connect with one position and object to another, but artists can’t dictate what people will resonate with or how their work is received.
+
+They can, as is the case of Star Wars, say “This is the real version now, and this is the only version I like” but even Lucas doesn’t deny the earlier version exists, and Disney who now owns the Star Wars franchise offers officially licensed merchandise embracing the debate.
+
+My argument here is twofold — I maintain that there is no rule fans must agree with an artist’s feelings about their art, and that’s OK.
+
+I think people can be dedicated fans and deeply love a work of art while disagreeing with how the artist themselves feel about it.
+
+This is not inherently disrespectful, and these differences often create a richer story and fandom.
+
+I also think this history is important.
+
+To the timeline, but also to the people who played a role in the story.
+
+Speaking again about Cryptopunks, Matt & John have stated that these were not immediately embraced by the public (it took almost 12 hours for the first Cryptopunk to be claimed) and for several days they thought the experiment was a flop.
+
+While a few people had claimed some, by the time the Mashable article ran on June 16th, a week after release, there were still a significant number of punks that hasn’t yet been claimed.
+
+The article kicked off a claiming frenzy and a day later they were all spoken for — but this is also part of the story and being able to look at the on-chain history and see if a particular punk was claimed before or after the Mashable article is fascinating.
+
+For some of the people who were there and claimed their punks before that article ran, this is a point of pride.
+
+That history is lost if you only look at the V2 contract, which shows all 10,000 Cryptopunks were claimed on June 23rd.
+
+Like any of the examples above, this is something that some people might not care about but others care about deeply.
+
+And it’s those stories and history which makes things special.
+
+The story of V1 Cryptopunks being released, being flawed, being forgotten, and being brought back to life by the fans is powerful and adds another rich layer of texture to what is already the incredible story.
+
+As a fan myself, I’m glad others recognize this and I love learning more and talking about it with friends who share my passion.
+
+To end this with a call to action, one that is potentially more important than this footnote makes it out to be — Yuga Labs, who is now the owner of the Cryptopunks brand (they are the Disney to Lucas’s Star Wars) has undertaken the not-insignificant job of placing Cryptopunks into contemporary art museums, with the intention of ensuring punks are protected and regarded as the culturally important artifacts that they are.
+
+Sadly, thus far these donations have only included the V2 Cryptopunk even though Yuga Labs is in possession of the V1 punks as well.
+
+While I understand they need to maintain a position on what is “official” I’m disappointed by their denial of the “original” and I sincerely hope they will reconsider, as Spielberg did, and donate the matching V1 Cryptopunks to those museums as well.
+
+Even Larva Labs kept the V1 & V2 punks together in the same wallet for over 5 years before transferring them to Yuga.
+
+This history is important and should be preserved for the next generation of fans to enjoy.
+
+Originally published at https://blog.seanbonner.com on April 7, 2023.

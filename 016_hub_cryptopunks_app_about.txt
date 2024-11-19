@@ -1,0 +1,63 @@
+Title: About | CryptoPunks
+
+URL: https://hub.cryptopunks.app/about
+
+What began as an experiment in digital ownership has become the catalyst for a modern art movement and a dynamic subculture synonymous with the new age of internet.
+
+A pioneering digital art project on the Ethereum blockchain, Crypto Punks launched on June 23, 2017 as a collection of 10,000 unique, 24x24 characters inspired by the London ‘80s punk scene and ‘90s cyberpunk culture.
+
+The pixelated humans, apes, zombies, and aliens have since served as the rosetta stone for new generative collections time and time again, sold for millions at Christie’s and Sotheby’s auctions, and found homes in the permanent collections of major art institutions, including ICA Miami, Centre Pompidou, and LACMA.
+
+Today, firmly rooted in an ethos of anonymity, decentralization, and community, Crypto Punks continues to be trailblazer for digital art and on-chain collectibles.
+
+View #5822 details View #7804 details View #3100 details View #2924 details View #4156 details View #5577 details View #4464 details View #5217 details View #8857 details View #2140 details View #7252 details View #9052 details View #2066 details View #1422 details View #3307 details View #0561 details View #3011 details View #8472 details View #3831 details View #8865 details View #5822 details View #7804 details View #3100 details View #2924 details View #4156 details View #5577 details View #4464 details View #5217 details View #8857 details View #2140 details View #7252 details View #9052 details View #2066 details View #1422 details View #3307 details View #0561 details View #3011 details View #8472 details View #3831 details View #8865 details10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain.
+
+The project that inspired the modern Crypto Art movement.
+
+Crypto Punks are one of the earliest and most iconic examples of "Non-Fungible Tokens” minted on Ethereum, and were the inspiration for the ERC-721 standard which powers most digital art and collectibles on-chain.
+
+Since their release on June 23, 2017, Crypto Punks have been featured in numerous international publications, headlined prestigious international auctions at both Christie’s and Sotheby’s, and even entered the permanent collections of important art museums such as the ICA Miami, the Centre Pompidou, and the LACMA.
+
+Marketplace Browse Punks Imagining “a small, weird, but cool experiment” in digital ownership on the blockchain, programmers John Watkinson and Matt Hall of Larva Labs initially set out to explore the dynamics of virtual scarcity and demand.
+
+Using a set of algorithmic templates that ensured no two Punks were the same, they generated 10,000 distinct avatars and released 9,000 of them to the public as free-to-claim NFTs.
+
+Crypto Punks’ model of on-chain art ownership was revolutionary, enabling direct, transparent transactions between collectors and artists.
+
+It represents a milestone in the ever-evolving landscape of New Media art, a movement that emerged conceptually in the mid-1960s and was championed by the likes of Andy Warhol, Keith Haring, and Nam June Paik.
+
+Demand from collectors and art institutions alike hit record highs, and it became clear that the “small” experiment was more than a collection of entries on a public ledger — it was the beginning of a new era for technology, art, and the connection between them.
+
+Click and drag timeline to browse Close Note Archive2017On June 9, Crypto Punks launches with 10,000 NFTs of uniquely generated pixel art, 9,000 of which were free to claim by anyone with an Ethereum wallet.
+
+It took over a week for all 10,000 tokens to be claimed.2017On June 17, a critical bug is uncovered in the original Crypto Punks smart contract: sale proceeds from Punks were being redirected back to buyers instead of to sellers.
+
+In response, Larva Labs issues a new contract that fixes the issue and introduces an added bidding functionality.
+
+On June 23, the updated and corrected Punks are reissued to the initial claimants through an airdrop.2018Crypto Punks gains steam on the secondary marketplace, and garners interest from the traditional art world.
+
+A Punk is sold for $950 at the Codex + Rare Art Auction in New York.2019In a group exhibition at the Kate Vass Galerie in Switzerland, 24 unique physical prints of Punks debut alongside pieces from artists like Ai Weiwei and Kevin Abosch.2020Punks go mainstream, generating over $2.5 million in sales and attracting over 350 new collectors.
+
+For the first time in Punks history, the average value of a Punk surpasses $1,000.202110 Punk NFTs are auctioned off at Christie’s and Sotheby’s.
+
+Christie’s sells a lot of nine for $17 million in May, and Sotheby’s sells Punk #7523 for a record $11.8 million in June.2022Yuga Labs acquires Crypto Punks from Larva Labs on March, and donates Punk #305 to the Institute of Contemporary Art in Miami, displayed next to Andy Warhol’s American Lady in December.2023Punks are donated to The Centre Pompidou and the Los Angeles Museum of Contemporary Art.
+
+Yuga Labs announces the production of an official book in partnership with Zak Group — a user manual, archive, and catalogue raisonné for the project.
+
+Crypto Punks are icons of online identity, representing the many creatives, builders, and technologists who continue to shape the internet.
+
+Six years after its launch, the original collection remains unalterable on the blockchain.
+
+Its impact, however, continues to grow, coming to life through the experimentation and innovation of Crypto Punks Projects.
+
+Honoring the provenance and intentions of the original collection and guided by the Crypto Punks’ core pillars of preserving legacy, championing community, and leading innovation, Crypto Punks Projects is a curatorial platform for experiences and initiatives that expand and uplift the digital art ecosystem.
+
+All 10,000 Crypto Punks as they appear on the Ethereum blockchain John Watkinson, Matt Hall: Crypto Punk, 2017, © John Watkinson, Matt Hall, © photo: ZKM | Center for Art and Media Karlsruhe, photo: Elias Seibert Punk #305 installation at the ICA Miami during Art Basel in December 2022 Credit: Bob Foster Larva Labs founders Matt Hall and John Watkinson in conversation for the upcoming Crypto Punks book Christies sells Lot #11A for $16,962,500 on May 11th, 2021 Credit: Image Courtesy of Christie’s Punk #305 becomes the first Crypto Punk donated through the Punks Legacy Project.
+
+Credit: Bob Fisher General Manager Natalie Stone addresses Punks Brunch in Charleston, SC.
+
+Credit: Nathan Beer Avant Arte x Crypto Punks print collaboration released in Fall 2023Commemorative mural in So Ho, New York for the Crypto Punks 5th Year Anniversary NFTiff pendant by Tiffany & Co., released in 2022 Credit: Image Courtesy of Tiffany & Co.
+
+Stay tuned.
+
+Sign up for Punk Updates Submit

@@ -1,0 +1,347 @@
+Title: Collecting the Culture: CryptoPunks | Curated
+
+URL: https://www.curated.xyz/editorial/collecting-cryptopunks
+
+As the original set of 10,000 algorithmically generated digital collectibles on the blockchain, Crypto Punks have become iconic symbols of digital ownership.
+
+They epitomize the ethos of the decentralized web and mark a pivotal moment in the intertwining of crypto, art, and digital identity.
+
+Theyâve inspired everything from the on-chain generative art movement to digital artworks that are now in major museums and galleries, as well as the massive wave of profile picture (PFP) collectibles in 2021-2022.
+
+If Bitcoin is the currency of the cypherpunks, then Crypto Punks represents its culture.
+
+The cypherpunk movement began in the early â90s with a simple mailing list of likeminded individuals discussing the use of encryption to protect individual freedoms.
+
+Cypherpunks not only laid the philosophical groundwork for Bitcoin, but they also explored the concept of digital collectibles in the form of cryptographic trading cards.
+
+Decades later, this movement would lead to the creation of the blockchain and inspire two developers to create the first truly iconic â and revolutionary â digital collectibles project.
+
+Email from early Bitcoin contributor Hal Finney on crypto trading cards View in Curated Gallery In this primer, weâll cover a brief history of Crypto Punks, deep dive into appreciating them, and share how weâve crafted our Crypto Punks collection at Curated.
+
+Larva Labs and Crypto Punks Crypto Punks were created in 2017 by Matt Hall and John Watkinson through their studio Larva Labs.
+
+The duo had previously built fun projects at the intersection of art and tech.
+
+Elements from those projects later made their way into Crypto Punks: the pixel art in Gurk (an 8-bit RPG) and the memetic virality of profile pictures in Androidify, an app for creating a customizable PFP based on the Google Android mascot.
+
+For Larva Labs, Crypto Punks was an opportunity to explore the dimensions of digital ownership on the blockchain.
+
+There's like a weird intersection here between these virtual, digital things and an artificial rarity, but a rarity that is real and valuable in some sense.
+
+Matt Hall in a 2017 Mashable interview2017 was still an early time for crypto adoption.
+
+It was just three years after Ethereum's launch and coincided with the initial surge of the ICO bubble around fungible ERC-20 tokens.
+
+The user experience of Ethereum was critically lacking, there werenât great wallet interfaces, and the world of NFTs did not exist.
+
+In order to create Crypto Punks, Larva Labs created a modified version of the ERC-20 fungible token contract, which would later serve as inspiration for the ERC-721 standard for NFTs.
+
+And since no marketplaces existed at the time, they built in a decentralized marketplace directly into the Crypto Punks smart contract exclusively for buying and selling punks.
+
+Matt Hall and John Watkinson of Larva Labs View in Curated Gallery When Crypto Punks launched, it took eight days for the collection to be fully claimed even though they were free.
+
+Thousands of Crypto Punks sat unclaimed until a Mashable article drove interest to the site.
+
+Fast forward to today, the lowest priced Crypto Punk is ~$114k USD (~57ETH).
+
+In the six years since launch, Crypto Punks has outdone even the wildest imaginations of their creators:The marketplace built into the Crypto Punks contract has processed nearly $3 Billion USD in trading volume Crypto Punks have been acquired by major museums around the world, including ZKM in Germany, Centre Pompidou in France, and ICA Miami and LACMA in the USCrypto Punks have been sold at major auction houses, including multiple Sothebyâs and Christieâs Evening Sales Crypto Punks selling at Sothebyâs View in Curated Gallery In March 2022, Larva Labs announced the sale of Crypto Punks and Meebits to Yuga Labs, the team behind Bored Ape Yacht Club.
+
+While Matt and John would no longer be the stewards of Crypto Punks, they made a lasting impact on the future of crypto and digital art.
+
+Their creation inspired Crypto Kitties and the ERC-721 standard, Chromie Squiggles and the founding of Art Blocks, and Bored Apes and the explosion of collectibles/PFP projects.
+
+The massive wave of interest in NFTs from 2020 to today stems from what Matt and John created:âWhen I started writing the standard for non-fungible tokens that would become ERC-721 and introduced the term âNFTâ, I drew on other projects that explored similar ideas.
+
+Cryptopunks was the strongest inspiration because it followed the structure of ERC-20 as closely as possible while allowing for individual ownership of distinct tokens.
+
+Ultimately, I think ERC-721 succeeded because we followed the example of Cryptopunks and kept the interface simple and parallel to ERC-20.â- Dieter Shirley, Co-Creator of Crypto Kitties, Co-Founder of Dapper Labs, and author of ERC-721 standardâLarva Labs connected the dots for me on two fronts with the launch of the Crypto Punks project. #1 they opened my eyes to the concept of ownership of a digital object and #2 they demonstrated the potential for blockchain technology to facilitate distribution of content through a "self service" claim.
+
+My mind was blown, and as I was claiming my Crypto Punks in June of 2017 I realized there was an opportunity to take things one step further letting the blockchain decide what the generative algorithm was going to produce in a single transaction by the collector.
+
+This concept was eventually refined into what Art Blocks is today.ââ- Erick Calderon, Founder of Art Blocks and Creator of the Chromie Squiggle"When we created Bored Ape Yacht Club, there was no project we looked to for inspiration more than Punks.
+
+It's a flawless collection.
+
+Aside from just being very cool, so much of what we all have grown to love about NFTs sprouted up from Crypto Punks and the community that formed around them.
+
+It's impossible to tell the history of NFTs without putting Matt and John's creation near the center of it all.
+
+That's why when we inherited the legacy of Crypto Punks as a company, our goal was to be good stewards, to preserve and honor it.ââ- Gordon Goner, Co-Founder of YugaÂ Labs As the saying goes, all roads lead back to Crypto Punks.âView in Curated Gallery Appreciating Crypto Punks Thereâs a lot more to a Crypto Punk than 24x24 pixel art.
+
+They are the artistic embodiment of self-sovereignty and mark a defining moment in the history of digital ownership.
+
+In 250 lines of code, Larva Labs created a self-contained system encompassing a verifiable record of ownership, a decentralized marketplace, and full reproducibility, all constructed in an immutable way.
+
+Beyond the technical feats, owning a Crypto Punk signals an understanding of the significance of blockchain-based digital assets and inclusion in the cryptonative community around it.
+
+Letâs dive into the components of appreciating Crypto Punks.
+
+Crypto Punk art alongside its underlying smart contract View in Curated Gallery Record of Ownership Crypto Punks were created before there was an ERC-721 standard, which is what we now largely identify with as NFTs on Ethereum.
+
+Larva Labs had to modify the existing ERC-20 token standard to forge a unique, non-fungible kind of digital asset.
+
+This would create a trustless and verifiable record of ownership that didn't rely on any central record keeper.
+
+Later, Crypto Punks would serve as inspiration towards the creation of the ERC-721 standard and is cited multiple times in the original Ethereum Improvement Proposal (EIP).
+
+Ownership and sales history for Crypto Punk #3489 as shown on the Larva Labs site View in Curated Gallery Marketplace Crypto Punks broke new ground not just in the concept of digital ownership, but also in the way these digital assets could be traded.
+
+At the time, generalized NFT marketplaces such as Open Sea did not exist.
+
+An underappreciated feature of Crypto Punks is that the marketplace functionality is encoded right into the smart contract.
+
+This means the art being collected isnât just the pixel art; itâs also the smart contract mechanisms behind it.
+
+Its very existence includes the mechanics to facilitate its own trade with no middleman necessary.
+
+It's a self-contained economy that survives irrespective of external marketplaces.
+
+The Crypto Punk marketplace alongside code for buying a Punk in the smart contract View in Curated Gallery This feature is often overshadowed by discussions of price and rarity, but is essential for understanding and fully appreciating the significance of Crypto Punks.
+
+Today, even amidst the discussions around royalties and secondary marketplaces taking power away from artists and collectors, Crypto Punks are still predominantly traded through their own smart contract, the same one that the Crypto Punks tokens live on.
+
+With the marketplace built in, the self-sovereign spirit of the cypherpunk forever lives on.
+
+Reproducibility In 2017, Crypto Punks launched with their artwork contained in a large composite image that was stored off-chain.
+
+The on-chain data consisted only of a cryptographic hash of this image, and the token IDs of each punk were coordinates to find the punk in the large image (e.g.
+
+Punk #4519 is found 45 rows down, 19 columns over).
+
+The original composite image that contains all 10,000 Crypto Punks View in Curated Gallery In April of 2021, four years after its launch, Crypto Punks were brought on-chain with the help of Snowfro, the founder of Art Blocks, and audiovisual generative artist Deafbeef.
+
+Deafbeef created a proof-of-concept contract that proved it was possible.
+
+This elevated Crypto Punks from a referenced object to a complete, self-contained decentralized asset.
+
+Today, the SVGs and attributes of all 10,000 Crypto Punks live on-chain, forever part of the permanent record on the Ethereum blockchain.
+
+To highlight this, we created the below demo to let you see the art and attributes for any Crypto Punk directly from the smart contract:<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><iframe src="https://curatedpunks.vercel.app/" name="my IFrame" height="400px" scrolling="auto" style="border: solid #d9d9d9;"></iframe>
+
+Immutability The original Crypto Punks smart contract was designed to be immutable.
+
+There were no backdoors, no special privileges for the creators, and no way to alter what had been set in motion.
+
+Furthermore, the cryptographic hash of the composite image of all Crypto Punks was hard coded into the smart contract.
+
+The subsequent contract that brought the Punks on-chain respected this ethos and was likewise sealed, rendering Crypto Punks an immutable digital artifact resistant to the whims of its creators or anyone else.
+
+Self-Sovereign Creatorship The overarching theme in the design of Crypto Punks is one of self-sovereign creatorship.
+
+Itâs a story of creators taking back control from traditional intermediaries and having autonomy over how their work is owned, distributed, and monetized.
+
+Beyond ownership, trading, and distribution, Larva Labs designed their economic incentives from Crypto Punks to be aligned with their community.
+
+Matt and John made Crypto Punks free to claim and trade, opting instead to claim the first 1,000 for themselves.
+
+In doing so, they could capture value as the project grew, without depending on additional primary sales or secondary marketplace royalties.
+
+Reducing external dependencies is core to the DNA of Crypto Punks.
+
+Social Signal and the Community In the early days of NFTs, owning a Crypto Punk was a symbol of inclusion within a small âOGâ group of crypto enthusiasts that were excited about a future where digital collectibles on the blockchain are valued.
+
+Today, with the price of Crypto Punks and their collectability by museums, celebrities, and institutions, owning a Crypto Punk means a desire to be part of the global community of like-minded individuals building the future of crypto and digital assets.
+
+The community includes notable founders, creators, and even some celebrities, including Robert Leshner, Hayden Adams, Snowfro, Beeple, and Jay-Z.
+
+Punks brunch at the Beeple Studios Crypto Punks meetup in 2023View in Curated Gallery In the spirit of their creation, the community itself is decentralized and self-organizes events around the world, from Punk brunches at every major conference to the most recent meetup at Beeple Studios in Charleston.
+
+The Crypto Punks community, largely without involvement from Yuga Labs or Larva Labs, maintains one of the most active NFT communities through a community-run Telegram group.
+
+The Crypto Punks community has also played a crucial role in bringing to life major cultural projects, including billboard campaigns, Tiffany & Co. jewelry, luxury sneakers, and physical art.
+
+The fact that the founders have been able to fully step away and still have the community thrive speaks volumes to the impact and legacy of Crypto Punks, which is second to none.
+
+A Cultural Store of Value While Crypto Punks werenât the first digital collectible on the blockchain, they were the earliest collection to become culturally significant.
+
+We believe Crypto Punks are the defining on-chain cultural asset, which makes them an ideal store of value for multiple reasons.
+
+As Derek Edwards of Collab+Currency cites in his piece "Storing value in Digital Objectsâ:A store of value object is something that is stored or saved as means to retain purchasing power.
+
+These objects often enjoy a large attention network, are provably scarce, highly durable, and have few external dependencies to maintain value over long periods.
+
+To put that in the context of Crypto Punks:Large attention network and provably scarce - With a total of 10,000 pieces, Crypto Punks is a relatively large collection with ~3,700 unique collectors today.
+
+Many of those collectors are evangelists of their own punk and the collection overall.
+
+One of the greatest superpowers of digital collectibles is their ability to combine the passion of online communities with internet-scale network effects.
+
+Amongst cultural digital assets, Crypto Punks stand out as one of the earliest and most impassioned communities, and network by extension, that continues to grow in tandem with crypto adoption.
+
+Highly durable - Durability, which we define as the ability for the art to stay intact, for on-chain cultural assets is essential.
+
+Crypto Punks are fully on-chain, so the art is always reproducible so long as the underlying blockchain lives on.
+
+They live on Ethereum, the most resilient network after Bitcoin.
+
+The smart contract itself is also immutable, so thereâs no risk of the creators or owners altering anything about them.
+
+Few external dependencies - Crypto Punks exist on their own island.
+
+They have no roadmap and need no marketing.
+
+The project and its community have thrived, even as its creators have stepped away.
+
+Crypto Punks continue to exist and be appreciated by collectors around the world.
+
+There are also a few external factors that continue to make Punks uniquely appealing as a store of value:Social consensus is growing - Crypto Punks have been acquired by many significant institutions around the world including ZKM, Centre Pompidou, ICA Miami, and LACMA.
+
+Each new respectable institution that joins the collector base âhardensâ social consensus around the collection.
+
+Growing and maintaining social consensus is key to these pieces remaining desirable.
+
+Significant liquidity - Crypto Punks are one of the most liquid and desirable collections, often with tens of millions in active bids at any time.
+
+The significance of the collection and its high conviction community enable additional layers of liquidity to be built on top, including professional market makers and active lending markets at favorable rates for borrowers.
+
+We view Crypto Punks as a network of 10,000 assets.
+
+Today, the networkâs market cap is ~$1.14Bn.
+
+When compared to the market cap of the top fungible cryptocurrencies, it would roughly rank as the 55th most valuable network.
+
+This could increase over time as demand for these hyper-scarce cultural assets goes up.
+
+Collecting Crypto Punks In Collecting The Algorithm, we wrote that collecting any piece of art should start with a visceral connection.
+
+In the case of Crypto Punks, itâs even more personal.
+
+For most collectors, choosing their punk goes beyond collecting a piece of art; itâs a search for digital identity.
+
+Collectors tend to seek punks that represent themselves, whether thatâs in directly mirroring traits (e.g. beards, glasses, hair) or aspirational values (e.g.
+
+VR, 3D glasses).
+
+Similar to on-chain generative art, there are several factors to consider before collecting, beyond a personal appreciation for the visual art.
+
+Our curation focuses on clean aesthetics, unique characteristics that tell a story, and covering a range of explicit and implicit traits.
+
+Curatedâs Crypto Punk collection View in Curated Gallery Explicit and Implicit Traits Covered more extensively in our primer on on-chain generative art, explicit traits are characteristics that the creator defines on-chain and is included in the token metadata.
+
+Explicit traits are often appreciated by collectors as they provide a clear indicator of rarity and opportunities to collect trait defined sets.
+
+Implicit traits are not clearly defined on-chain and often times come from lore or the community.
+
+One of the earliest parts of Crypto Punk lore is the addition of types, attributes, and attribute counts to the website.
+
+Early members of the community, in the words of Hal Finney, aimed to âcollect a whole setâ by acquiring one of each attribute.
+
+Collecting traits is part of the DNA of collectors and is an important part of early Crypto Punks history.
+
+Just as with on-chain generative art, there are explicit traits, which are now on-chain, and implicit traits:Explicit Trait: Type The most visually noticeable trait is Type.
+
+While most Crypto Punks are human, either male or female, there are only 121 punks that are of other Types, including Zombies (88 total), Apes (24 total), and Aliens (9 total).
+
+While collecting non-human Crypto Punks is very difficult, their extreme visual distinctiveness makes them highly desirable to collectors.
+
+The five Types of Crypto Punks View in Curated Gallery Within the Curated collection, we have two Zombie Crypto Punks.
+
+As with our other Crypto Punks, we strive for visual cohesion and character. #3489 is a Zombie pirate lost at sea and #8472 is a clean 2-attribute Zombie.
+
+Crypto Punk #3489View in Curated Gallery Crypto Punk #8472View in Curated Gallery Explicit Trait: Attribute Attributes are where Crypto Punks get most of their identity and personality.
+
+There are 87 different attributes that span hats, hair, glasses, beards, and accessories.
+
+A subset of the 87 Attributes available View in Curated Gallery While some attributes are coveted for their rarity, including Beanie and Tiara, many have grown from community love and have their own culture and market.
+
+These include:Hoodies: Hoodie punks are particularly desirable, especially for an attribute that has mid-range rarity.
+
+The ethos of being comfortable in a hoodie (vs. wearing formal or uncomfortable clothing simply due to social convention) aligns well with crypto culture.
+
+Notable Hoodie punks include Punk 6529 and DCInvestor.
+
+Within our collection, weâve curated two very clean Hoodie punks, #7641 and #512.
+
+Crypto Punk #7641View in Curated Gallery Crypto Punk #512View in Curated Gallery Cowboy Hats: Cowboy punks are another notable subculture within Crypto Punks, complete with their own Discord community.
+
+Notable Cowboy punks include AC Collector, Balon, and 0x Deafbeef.
+
+In the Curated collection, weâve got a complimentary pair (#8253 and #8188), which is a similar looking punk with and without sunglasses.
+
+Crypto Punk #8253View in Curated Gallery Crypto Punk #8188View in Curated Gallery Top Hats, 3D, and VR: While there are many other notable attributes, these three attributes are particularly loved in the Crypto Punks community. 3D and VR punks represent the futurist part of the culture, while Top Hats show the influence of the London punk scene on Crypto Punks.
+
+Our collection includes a very clean Top Hat (#1630), 3D Glasses (#2869), and VR (#2227).
+
+Crypto Punk #1630View in Curated Gallery Crypto Punk #2869View in Curated Gallery Crypto Punk #2227View in Curated Gallery Implicit Trait: Attribute Count Attribute Count was the last âtraitâ added to the original Crypto Punks website.
+
+There are eight Crypto Punks that have 0 Attributes, one with 7 Attributes, and the rest are in between.
+
+While for most Crypto Punks attribute count doesnât matter, the rarity of 0 and 7-attribute punks makes them highly coveted amongst collectors.âView in Curated Gallery Our collection is mainly focused on visual coherence and finding âcleanâ punks.
+
+While we admire the statistical rarity of 0-attribute Crypto Punks, the visual similarity of quite a few 1-attribute Crypto Punks (e.g. #1883 in our collection) make the often 8-10x price premium of 0-attribute Crypto Punks difficult to consider.
+
+Crypto Punk #1883, 1-attribute Crypto Punk View in Curated Gallery Visual Coherence Visual coherence is the overall aesthetic consistency and harmony of different attributes of a Crypto Punk.
+
+It means that the overall combination of explicit and implicit traits that make up a punk should create a visually pleasing and well-balanced appearance.
+
+The term âcleanâ is often used to describe Crypto Punks with visual coherence.
+
+Many things can contribute to a clean punk:Clean attributes: Some attributes come off cleaner than others.
+
+We are partial to Shadow Beards, Smiles, and various bright hairstyles.
+
+On the flip side, some attributes, such as spots and stringy hair, add more visual disarray.
+
+These are loved by some and can lead to punks with more personality, but they donât add to visual coherence.
+
+Crypto Punk #4651View in Curated Gallery Crypto Punk #2852View in Curated Gallery Crypto Punk #5397View in Curated Gallery Fewer attributes: Often times the fewer attributes on a punk, the cleaner itâll be.
+
+Said differently, itâs harder for many attributes to work together in harmony.
+
+The fact that the 7 attributes of Crypto Punk #8348, which is the only 7-attribute in existence, work so well together simply adds to its lore.
+
+Crypto Punk #7010View in Curated Gallery Crypto Punk #6415View in Curated Gallery Coherent attribute combinations: Itâs a stroke of serendipity to find attributes that work well in tandem.
+
+One example of this is Crypto Punk #9926, a Tiara with Hot Lipstick.
+
+The jewel in the tiara roughly matches the lipstick color, which adds an extra layer of visual coherence to the punk.
+
+Another example is #2540, an excellent Pilot Helmet Punk whose black lipstick matches the color of her pilot goggles.
+
+Crypto Punk #9926View in Curated Gallery Crypto Punk #2540View in Curated Gallery Beyond any other factor, we aim to collect aesthetically clean punks that we love, regardless of attribute rarities.
+
+Tells a Unique Story The most interesting punks in the world have an âitâ factor.
+
+They tell a story and have a distinct personality that matches.
+
+Often this works well with attributes that wonât catch the eye immediately, but with some unique combination of attributes that tell a fun story of why that punk is special.
+
+For example:Crypto Punk #9254 is a Clown Hair Green punk.
+
+The eye patch and shadow beard give it a rugged pirate look, leading to its nickname 'The Clown Pirate'.
+
+Crypto Punk #4594 is a Police Cap punk, which is an attribute we normally donât look for.
+
+The addition of just the mustache makes it look like an old cop near retirement.
+
+Itâs a story of its own, but was further immortalized in Beepleâs 1/1 titled âFuture Graffitiâ.
+
+Crypto Punk #9254View in Curated Gallery Crypto Punk #4594View in Curated Gallery Provenance At the core of Crypto Punks is the creatorsâ intent to build a self-contained system that records ownership of a non-fungible digital asset.
+
+The nature of the blockchainâs decentralized ledger means that provenance is a first class feature.
+
+We also strongly believe that provenance matters when collecting cultural digital assets.
+
+While most of our Crypto Punks have traveled a long distance, with multiple owners along the way, the provenance of a few pieces in particular stand out:Larva Labs: The creatorsâ provenance is certainly special.
+
+Two punks in our collection come from Larva Labs.
+
+Hoodie punk #512 is a âDev Punkâ, one of the first 1,000 Crypto Punks kept by Larva Labs. 3D punk #2869 was a gift from Larva Labs to Backseats.eth as they worked out of the same co-working space together.
+
+According to Backseats, Matt and John offered it for free to everyone, but very few took them up on the offer.
+
+Snowfro: As one of the earliest claimers, Erick Calderon aka Snowfro claimed many of the Zombie punks.
+
+Our two Zombies (#8472 and #3489) were both owned by Snowfro and sold off in early 2021 to pay for his membership into The LAO.
+
+Final Word There is no other project that captures the ethos of the cypherpunk quite like Crypto Punks.
+
+Like Bitcoin, they were free to acquire initially and required some technical knowhow in an early time when tooling was primitive.
+
+The intentional effort by their creators to remove dependencies, from building in the marketplace to putting the art on-chain to even stepping away entirely and still having the community thrive, all add to the resiliency of Crypto Punks as a store of value asset.
+
+The small but passionate early community stayed active even through deafeningly quiet times.
+
+Crypto Punks will forever stand as a cultural icon within the growing world of digital art and collectibles on the blockchain.
+
+Thanks to Matt Hall, John Watkinson, Erick Calderon, Natalie Stone, Gordon Goner, Dieter Shirley, Noah Davis, Nat Emodi, Derek Edwards, Jean-Michel Pailhon, Von Mises, Proper, and Plutonium F for reading drafts and shaping our thinking on this piece.

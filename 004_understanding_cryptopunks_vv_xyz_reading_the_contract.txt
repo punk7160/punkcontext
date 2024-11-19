@@ -1,0 +1,29 @@
+Title: Reading the Contract
+
+URL: https://understanding-cryptopunks.vv.xyz/reading-the-contract
+
+Reading the Contract Open the Crypto Punks Market.sol code for the Crypto Punks Market to follow along!
+
+I can recommend these two dedicated code-reader apps you can use right in your browser:Contract Reader Deth.
+
+Net Alternatively you can download the code to your computer and open it in a text editor.
+
+Let's dive in!
+
+Section Overview1.
+
+Actors & Actions Let's get an overview of the different entities our contract deals with.2.
+
+Punk Ownership How does the contract track punk ownership?3.
+
+Transferring a Punk How does transferring punks work?4.
+
+Buying a Punk Buying a punk via the buy Punk() function.5.
+
+Offering a Punk for Sale Owners can offer punks for sale via the offer Punk For Sale() function.6.
+
+Bidding Market What's a Market without a bidding war...7.
+
+Ether Withdrawals Withdraw Ether after purchases8.
+
+Initial Distribution of Punks How the punks were claimed for free and later redistributed.

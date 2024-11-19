@@ -1,0 +1,149 @@
+Title: CryptoPunks: Digital Collectibles as Stores of Value
+
+URL: https://punk.substack.com/p/cryptopunks-digital-collectibles
+
+Share this post Crypto Punks: Digital Collectibles as Stores of Valuepunk.substack.com Copy link Facebook Email Note Other Crypto Punks: Digital Collectibles as Stores of Value Punk Capital Oct 04, 202014Share this post Crypto Punks: Digital Collectibles as Stores of Valuepunk.substack.com Copy link Facebook Email Note Other2Shareauthors: @cryptodiario, @foobazzler, @alexgausman This article aims to analyze the role of digital collectibles as potential stores of value and to demonstrate why Crypto Punks are ideal candidates.
+
+We review the historical evolution of the Store of Value (So V) concept and its crucial role as one of the main narratives driving cryptocurrency markets.
+
+Money as a Store of Value In Shelling Out: The Origins of Money, Nick Szabo explains that the first forms of money are exchange mechanisms designed to solve the “coincidence of wants” problem in which there are difficulties establishing equivalences between quantities and qualities of very diverse products.
+
+According to Szabo, the most archaic forms of money correspond to what he calls “collectibles”—bead necklaces, seashells or certain types of stones, items that had to be both durable and scarce either through natural rarity or through the amount of labor required to create them.
+
+In general, any ideal form of money must have three basic functions:Medium of Exchange: the currency must be widely accepted as an instrument of exchange by the people who make up an economy.
+
+Unit of Account: once a currency is widely adopted, the price of goods in the economy is denominated in it.
+
+Store of Value: the currency must be durable and not lose too much of its purchasing power too quickly PUNK CAPITAL believes that the So V concept is gaining renewed importance under a new emerging asset category: trustless digital collectibles.
+
+To understand why, we must first discuss a bit of crypto history.
+
+Bitcoin: From P2P Digital Cash to Digital Gold In 2008, Satoshi Nakamoto published a revolutionary paper that would forever change the landscape of finance: Bitcoin: A Peer-to-Peer Electronic Cash System.
+
+Inspired by the cypherpunk movement, the Bitcoin protocol was the genesis of a decentralized monetary system that was both censorship-resistant and trust minimized.
+
+It was a form of digital cash that delighted followers of the Austrian school of economics thanks to a supply limited to 21 million coins.
+
+This hard cap would supposedly act as protection against the inflationary tendencies of governments tempted to money-print their way out of any problem.
+
+The So V narrative would soon end up eclipsing the medium of exchange narrative mostly due to the enormous technical limitations of Proof of Work blockchain tech, especially in relation to transaction throughput.
+
+The victory of the “digital gold” narrative within the Bitcoin community would come after multiple controversies, the most prominent being that of the “big blockers” who wanted to scale the network via larger blocks in order to return the project to its original purpose as a medium of exchange.
+
+This ideological schism led to a hard fork and the birth of a new cryptocurrency called Bitcoin Cash.
+
+Unfortunately, unlike physical gold, the fate of Bitcoin as an asset and So V is linked to the sustainability of the network that mines it.
+
+The gold mining industry could disappear in the blink of an eye and the price of gold would actually be positively affected due to the sudden decrease in newly mined supply.
+
+In the case of Bitcoin, however, if the network of miners were to permanently fail for any reason, the actual asset itself would lose all its value.
+
+The fate of Bitcoin as a store of value is inextricably tied to the technical and economic viability of its base layer--a decentralized network made up of thousands of nodes that must all be compensated for their work.
+
+If those miners cannot be adequately compensated due to a combination of dwindling block subsidies enforced by a hard cap, stagnant prices, and the failure of the development of a fee market, the Bitcoin ledger cannot be maintained in a censorship resistant way and the asset thus becomes worthless.
+
+A New Challenger Arrives The appearance of Ethereum in 2015 — a smart contract platform allowing the creation of decentralized applications — together with the ICO mania of 2017, gave rise to a cambrian explosion of tokens that permanently altered the crypto industry.
+
+While ICOs resulted in the proliferation of numerous scams and vaporware projects, the phenomenon also created new categories of assets for which even today we lack a widely accepted token taxonomy.
+
+Nevertheless, analysts such as Chris Burniske and Joel Monegro have undertaken the arduous task of classifying the different types of assets that make up this emerging sector.
+
+In Value Capture and Quantification: Cryptocapital vs Cryptocommodities, Chris Burniske distinguishes non-productive assets such as Bitcoin (which act purely as commodities and must be valued based on the MV = PQ equation of exchange) from productive assets such as De Fi tokens which are valued using models such as dividend discounts or discounted cash flows.
+
+A cryptocommodity will be valued by the market as an So V, while capital assets are valued based on the returns they generate for investors—the “cash flow” they capture.
+
+Once Ethereum transitions to proof of stake (Po S) and fee burning is implemented, ETH can be categorized as a hybrid between a commodity and a capital asset.
+
+ETH is the reserve asset of the De Fi ecosystem on Ethereum and also the most liquid and censorship resistant collateral on Ethereum, but it will also generate pseudo cash flows through transaction fee burns and real cash flows through Po S rewards.
+
+Unlike Bitcoin, Ethereum and many middleware protocols in the De Fi ecosystem have rejected a monetary hard cap.
+
+The strategic use of inflation has been an indispensable part of the success of De Fi protocols such as Synthetix, while the Ethereum community universally recognizes that even if the monetary issuance is low, it shouldn’t be limited by an arbitrary number but by the needs of the network.
+
+A capital asset can tolerate a moderate level of inflation--as long as the cash flows it generates are greater than the dilutive effects of the newly issued tokens--but a cryptocommodity would lose its So V status without a hard cap and anything more than modest inflation.
+
+A capital asset is de-risked by its cash flows which are immediate, while a cryptocommodity like Bitcoin has no cash flows so it is completely dependent on capital appreciation which is a function of the scarcity of its supply.
+
+It’s also worth pointing out that Po S networks need far less inflation to sustain themselves and preserve the same security guarantees as an energy intensive Po W network like Bitcoin.
+
+If the Bitcoin hard cap were to be eliminated in favor of perpetual inflation to solve its sustainability problems, it would need more than modest inflation to compensate the expensive mining operations maintaining the network and this excessive inflation would erode its So V status.
+
+This all leads us to the next logical question: Is there an alternative to Bitcoin that preserves extreme scarcity while still being sustainable in the long run?
+
+Crypto Punks: the Emergence of NFTs as Stores of Value The launch of Ethereum resulted in the emergence of a new, nascent industry around digital collectibles represented as non-fungible tokens (NFTs).
+
+Proto-NFTs existed on Bitcoin in the form of Colored Coins but the NFT ecosystem wouldn’t blossom until Ethereum, thanks to its turing-complete capabilities, allowed developers greater freedom to experiment with new asset types.
+
+The first proposed experiment with digital collectibles on Ethereum was a continuation of Counterparty’s Rare Pepes (originally designed to work with the Bitcoin blockchain), however the project ultimately did not take off as envisioned.
+
+In truth, the NFT phenomenon really started with Crypto Punks.
+
+Crypto Punks consist of 10,000 unique pixel-art “punks” given away for free to anyone willing to claim them.
+
+Each punk has different characteristics (beard, skin color, hair, etc.) with some characteristics being far more rare than others.
+
+The properties that give Crypto Punks their So V status in the NFT space are as follows:Hard cap: 10,000 max punk supply.
+
+Any attempts to generate another set would not be respected by the market as original.
+
+Unlike most crypto-related projects, developers cannot use technological improvements to justify a fork of an NFT.
+
+Digital collectibles and art are not at risk of becoming obsolete like tech platforms are.
+
+None of the sustainability issues Bitcoin faces due to relying on the security of Ethereum as the underlying substrate.
+
+Many punks belong to addresses that haven’t moved in 3+ years—many of these likely represent lost punks, making the supply even more scarce.
+
+Thanks to the permissionless innovation on Ethereum, NFTs like Crypto Punks can be sharded and those shards can be sold individually.
+
+That means that if a rare punk commands a lot of money, a seller won’t necessarily have to wait for a whale with the necessary funds to buy it, but can fragment it into shards and effectively sell partial ownership, greatly facilitating liquidity.
+
+In fact, it is inevitable that NFTs will be financialized which will create potentially more buying pressure on the market.
+
+Imagine using a punk as collateral to borrow another asset--and this is just a rudimentary example.
+
+Eventually, NFT indices will exist that will make them even more liquid.
+
+Many new NFTs have flooded and will continue flooding the market, but punks are the original NFTs.
+
+No matter how many new NFTs flood the market, there will only be one set of original NFTs, just as there will only be one set of original Babe Ruth cards and Superman first edition comic books despite the proliferation of new trading cards and comic books.
+
+The NFT industry will converge on the first mover just as the crypto industry converged on Bitcoin due to its first mover status.
+
+Crypto Punks are an NFT schelling point.
+
+Punks with certain features (such as ape, alien, or zombie punks) are exceedingly rare and command an even higher premium.
+
+This means that punks have a sort of meta-scarcity within the Crypto Punk set.
+
+Fair distribution: The set of 10,000 punks were given away freely to anyone willing to claim them.
+
+There was no entity that was entitled to a large portion of the initial supply that could potentially create huge selling pressure.
+
+NFTs were ignored and misunderstood by the market for a long time and it’s unlikely that VCs accumulated large positions while punks were relatively cheap.
+
+Even now most funds have very little exposure to the space and are struggling to understand it.
+
+Any first mover NFT set would likely be valued highly no matter what that set consists of, but punks have a lot of personality and interesting qualities that make their owners esteem them even more.
+
+This sentimental value makes owners less likely to sell them.
+
+Many people critique NFTs by claiming that they can own an NFT just by screen grabbing the image, but NFTs are *not* images, they are a signal that you own the original copy.
+
+Even if you could generate an exact replica of the Mona Lisa—emulating even the most subtle brush strokes—the copy would be worth almost nothing compared to the original.
+
+So clearly it is not the physical aspects of a collectible that give it value but in the social consensus that you own the original.
+
+And decentralized, censorship-resistant blockchains such as Ethereum are great at both proving ownership and authenticity as well as enforcing property rights, which can be done in the real world only at a great cost.
+
+This mentality that a digital collectible is worthless because anyone can duplicate the image is causing the market to greatly under value and ignore the NFT space altogether.
+
+Moreover, although digital collectibles have existed for decades (e.g.
+
+World of Warcraft currency, Hearthstone trading cards, etc.), they are not good So V candidates because their supply, transmission, and accounting is entirely dependent on centralized entities that can and have seized assets for any arbitrary reason.
+
+It’s difficult to measure the market cap of a set of collectibles because each one is unique, but if the average punk currently sells for $4,000 and there are 10,000 of them, then the current market cap can be approximated at 40 million dollars.
+
+This is assuming that no punks are permanently lost and will at some point come back on market.
+
+Considering that the NFT market could be worth just as much as De Fi (read: trillions of dollars) and considering that Crypto Punks are a schelling point within the NFT space because they are the first mover, the punk market has significant upside left since any growth in the NFT market will likely translate to price appreciation for Crypto Punks. 100x gains within 5 years is not out of the question and PUNK CAPITAL plans on holding its Crypto Punk position for at least that amount of time if not longer.14Share this post Crypto Punks: Digital Collectibles as Stores of Valuepunk.substack.com Copy link Facebook Email Note Other2Share

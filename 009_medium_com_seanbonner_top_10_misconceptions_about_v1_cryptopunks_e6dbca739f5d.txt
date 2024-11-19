@@ -1,0 +1,279 @@
+Title: Top 10 Misconceptions About V1 CryptoPunks | by Sean Bonner | Medium
+
+URL: https://medium.com/@seanbonner/top-10-misconceptions-about-v1-cryptopunks-e6dbca739f5d
+
+Top 10 Misconceptions About V1 Crypto Punks Sean Bonner·Follow16 min read·Sep 2, 2022--Listen Share I’ve been a fan of and have written about Crypto Punks for a long time now.
+
+Ever since V1s resurfaced in early 2022 there’s been a lot of confusion around the collection.
+
+If that first sentence lost you, perhaps read my earlier article explaining Crypto Punk versions before going any further.
+
+As I get questions regularly from people and I see the same errors pop up, I thought it would be helpful to address some of the most common misconceptions, with citations, to help everyone better understand both the history and current events.
+
+I recognize this is somewhat of a controversial topic but I think everyone is better served by understanding the actual facts, rather than having to make decisions based on rumor.
+
+Here are the 10 things I see mixed up most often:1. “They were never intended to be released” or “They were just a beta release” This is probably the most widespread narrative and it’s incorrect.
+
+The V1 Crypto Punks contract was published on June 9th, 2017, and released to the public.
+
+Of course it wasn’t called “V1” at the time, it was just called “Crypto Punks” and for several weeks these were the only Crypto Punks that existed.
+
+This Mashable article, published on June 16, 2017, discusses the release and notes that they are still being claimed.
+
+It’s very clear from this article that this was a real release and not just a beta test or something accidentally published.
+
+The marketplace function on the Crypto Punks contract wasn’t enabled until they were all claimed which happened on June 17th, 2017 and it was at that point the marketplace bug was discovered.
+
+The V2 contract was published on June 23, 2017.
+
+Also telling, On March 4, 2018 Larva Labs filed a visual copyright registration for “Crypto Punks” citing a publication date of June 9th, 2017 — so in 2018 Larva Labs is on legal record stating that Crypto Punks launched on June 9th, not June 23rd and that registration remains active today.2.
+
+What exactly is “The Bug”?
+
+What “The Bug” is: In the marketplace, eth from a sale is withdrawable by the buyer, not the seller.
+
+What “The Bug” is not: A problem with the image, a broken token, a broken “picture frame”, an invalid NFT, a non-functional NFT, a backdoor to your wallet, etc etc etc…Two points which need clarification here are 1) if you are not using the marketplace function, there is no problem with the V1 contract and no risk in holding the token; and 2) the marketplace actually functions exactly as it was written.
+
+The problem is that they way Larva Labs wrote it and how they intended to write it, are different.
+
+This seems like nit picking but it’s an important detail Larva Labs have expressed themselves repeatedly — this was the first solidity contract they ever wrote and they simply misunderstood how the code worked.
+
+It’s not a “ooops, we put the comma in the wrong place and broke it” kind of bug, it’s the “Well that works, it just works differently than we hoped it would work” kind of bug.
+
+If you would like to see exactly what was changed between the V1 & V2 Crypto Punks contracts this difference checker link makes it very easy to understand and see just how much additional code was added in the V2 contract.
+
+Important Note: The marketplace in the V2 contract fixed the bug of the V1 marketplace so Ether from a sale properly goes to the seller now, and it added bidding which is massive new feature that didn’t exist in V1.
+
+That said, it also has its own “bug” in that bids can be frontrun and this happens regularly.
+
+What this means is Anne has a Crypto Punk but it’s not listed for sale.
+
+Billy makes a bid for it.
+
+Anne accepts the bid that Billy placed, but Chip was watching and using a script, instantly places a bid on Anne’s Crypto Punk that is a fraction of an eth higher than the bid Billy placed, and so Chip buys the Crypto Punk even though Anne accepted the bid placed by Billy.
+
+The marketplace can “accept bid” but it doesn’t specify which bid.
+
+This is a real problem that has caused a lot of heartbreak over the years, so it’s not like the V2 marketplace contract is somehow perfect either.
+
+This, as well as the lack of ability to place w ETH bids on multiple Crypto Punks simultaneously (as is the norm on modern marketplaces) is a frequently discussed pain point.3.
+
+Without a wrapper, V1 Crypto Punks have no image.
+
+This one is slightly less straight forward only because most of our expectations are built on how modern NFTs (ERC-721 & ERC-1155 tokens) function.
+
+Crypto Punks predate these standards and are actually a modified ERC-20 token (more closely related to w ETH, $APE, Matic, etc than to BAYC or Clone X) and unlike modern NFTs that each have their own image, both the V1 & V2 Crypto Punks contracts point to one single image that contains all 10k Crypto Punks.
+
+The token references a coordinate on that image and a web front end can then visualize which Crypto Punk in that one image the token is referencing.
+
+I must stress that this is the situation with V1 & V2 Crypto Punks.
+
+They are identical in this respect.
+
+Modern marketplaces like Open Sea or Rarible can display Crypto Punks because they’ve written custom code to handle the requirements of that specific contract function — something they’ve done because of the popularity of Crypto Punks.
+
+But this is also why you can’t buy or sell Crypto Punks on Open Sea or Rarible unless you first wrap them into an ERC-721 token.
+
+So again to be clear, when it comes to the image both the V1 & the V2 Crypto Punks function exactly the same, and in fact point to the exact same image.4.
+
+What the V1 wrapper actually is/does, or “Wrapping it makes it no longer real”As I mentioned in point 3, Crypto Punks are not ERC-721 tokens so they don’t work natively in environments designed for ERC-721 tokens.
+
+If you want them to, then you need to “wrap them” inside an ERC-721.
+
+Think of it like a box you might use for shipping something to a friend in another city.
+
+The wrapper holds the original Crypto Punk token and gives the holder an ERC-721 token which works natively in those environments.
+
+At any point the holder of the ERC-721 token can “unwrap” it and receive their original Crypto Punk token back.
+
+Since “the bug” is only in the marketplace function, wrapping it resolves this and allows the Crypto Punk to be traded safely on modern marketplaces.
+
+In fact this exact thing has been done for years with V2 Crypto Punks as well to allow them to be traded on other marketplaces.
+
+Both V1 & V2 Crypto Punks need to be wrapped in order to trade them on marketplaces like Open Sea, the only technical difference is that V2 Crypto Punks can also be traded on their own built in marketplace as well.
+
+A quick search on the Crypto Punks Discord shows that selling Crypto Punks on other marketplaces has been a recurring community ask going back many years.5. “There was community consensus to migrate away from the V1 contract”At the R.
+
+A.
+
+R.
+
+E.
+
+Digital Arts Festival in 2018 Matt Hall from Larva Labs explicitly states on video that it was a controversial decision to make a V2 contract.
+
+Matt states that many people in the community felt that the thing they owned was in the V1 contract and the creation of a new contract would cause problems and complicate things (which it did, as evidence by the fact that I’m even writing this now in 2022), but he says they chose to ignore those concerns and “just hope for the best.” When they published the V2 contract they changed the official Marketplace to interact with the new contract rather than the old one, so the community had no actual choice but to move on with the new contract, for better or worse.
+
+A tweet by John during this time suggested they understood this forcing mechanism.
+
+This was not the last time Larva Labs would butt heads with their community and in their own statement regarding the recent sale of the Crypto Punks IP to Yuga Labs, they state “ as this category of “Profile Picture Projects” (PFP) grew into an industry in itself, we found ourselves less and less suited to the operation of these projects.
+
+Our personalities and skill sets aren’t well suited to community management, public relations, and the day-to-day management” suggesting that “community consensus” was never something they were too deeply invested in.6.
+
+Larva Labs (the artist) has disavowed V1s, and the artists intention matters most.
+
+Matt & John at Larva Labs are brilliant artists who clearly have visionary foresight and have helped shape the world of digital collectables we know today, arguably more than any other artists.
+
+You can argue, as I have, that the entire current genre of 10k pfp collections are directly inspired by Crypto Punks.
+
+Another Larva Labs project, Autoglyphs, is unquestionably the inspiration for a whole other genre of on-chain generative art now most commonly associated with Artblocks.
+
+What Matt & John are not is consistent with their statements.
+
+For example between 2017 and 2022 they made a number of conflicting and contradictory statements about what rights Crypto Punk owners had to their individual Crypto Punks, eventually resulting in some high profile community members walking away.
+
+In the 2018 video I mentioned previously, during the Q&A session at the end someone in the audience informs Matt that his claim that Crypto Punks were the first NFT on Ethereum is inaccurate as Curio Cards launched several months earlier.
+
+Matt responds saying “Argh!
+
+We didn’t know so we just said it and figured if we were wrong someone would tell us, guess I have to change the slides now — so we were the second NFT.” Thanks to blockchain historians we now know that there were at least 8 NFT projects launched on Ethereum prior to Crypto Punks, but Larva Labs never actually changed those slides, and continued making the claim that they were the first for several years.
+
+In fact the claim is still live on the welcome page of the Crypto Punks Discord server today.
+
+My point here is that just because an artist says something about their work doesn’t necessarily make that true, nor does that always match what they said about their work before or what they might say about it later.
+
+I don’t think anyone would say “Well Larva Labs intended Crypto Punks to be the first NFT on Ethereum, and they are the artist and intentions matter most, so they are the first even though others did it before them.” We are still bound by the laws of time and intentions don’t supersede that.
+
+It is unquestionably clear that statements by Larva Labs about the V1 Crypto Punks in 2022 do not align with their own statements in 2017.
+
+To be perfectly honest, their statements in 2022 don’t even match their other statements in 2022.
+
+Early in the year they were found to be selling V1 Crypto Punks from their personal accounts while concurrently stating that they were “ not official” from their brand account, and then filed a DMCA against the NFTs they’d just sold penalizing the people they sold them to.
+
+They apologized for this and recognized that selling something privately while also disavowing it publicly was problematic to say the least.
+
+There are two ways to read this, either they were intentionally committing fraud or they were just artists embarrassed about early work and misstepped while using “artistic license” to massage history a little bit.
+
+I tend to believe the later.
+
+And that’s fine, an artist can decide they don’t like early work and that they don’t want to draw attention to it, but they can’t say early work that has already been sold to the public is no longer their work because they decide they don’t like it.
+
+Imagine if Damien Hirst said he no longer liked his paintings and didn’t consider them to be official anymore?
+
+Would they suddenly no longer be Hirst paintings?
+
+No, they would simply be Hirst paintings that he doesn’t like.7. “Hemba stole 1000 Crypto Punks” or “So many V1s were stolen that Larva Labs had to start over to rescue them”At this point we are venturing into lore and what is firmly classifiable as “scene drama” but let me try to cut through some of that with facts rather than emotional reactions.
+
+Larva Labs themselves have stated that they don’t consider anything that happened with “the bug” to be theft, the contract worked exactly as they wrote it to work.
+
+No one hacked it or found a backdoor, it was not exploited or anything like that, it’s just that what the contract was written to do and what they had hoped it would do were different things.
+
+Hemba was the largest single claimer of Crypto Punks, legitimately claiming over 1000 Crypto Punks the same way the every other claimer did between June 9th and June 17th.
+
+He was also one of several people who discovered “the bug” on June 17th and used the contract function to “buy” a number of Crypto Punks and then withdraw the ETH they’d just used to buy them.
+
+There were approximately 89 transactions where this happened and Hemba was responsible for 63 of them, so he has quite the reputation.
+
+However these transactions were reverted with the release of the V2 contract, and since then Hemba has made attempts to return the V1 Crypto Punks that he received without paying for them to the people who were selling them.
+
+To date he’s returned 40-something Crypto Punks and continues to actively try to contact people to return the rest.8. “V1s are just a Hemba grift taking advantage of suckers” or “V1 Punks are just Phunks who…”You may be starting to see a theme here, I don’t think that’s accidental.
+
+Controversial characters attract attention, and that leads to gossip but again let’s try to separate that from the facts.
+
+Hemba did not make nor commission the wrapper currently being used to trade V1s, it was made in early 2022 by a developer called Frank NFT.
+
+Nor is it the first wrapper for V1 Crypto Punks, as there was an earlier wrapper in use in 2021 made by 0xfoobar.
+
+Importantly, Hemba has not been selling pieces from his V1 Crypto Punk collection, even when the floor briefly reached 30 eth in early 2022.
+
+The majority of V1 holders are either original Crypto Punk claimers, collectors of historical NFTs or fans of Crypto Punks.
+
+People who are passionate about a subject often talk about it (as I do here) and this has wrongly been painted as shilling by detractors and sadly that narrative persists.
+
+Another related narrative is that somehow the team behind Crypto Phunks or Not Larva Labs is also leading the V1 Crypto Punk community — this is easily debunked but for some reason persists.
+
+This assumption likely comes from the fact that V1 Crypto Punks are available to trade on the Phunks’ marketplace Not Larva Labs.
+
+This was not a collaboration rather it was a dig by NLL at Larva Labs that simply took advantage of the blockchain functionality — anyone can make a marketplace and chose to sell any NFTs they want.
+
+Some of the people involved with NLL were also behind “Ape Market” ( now part of the Yuga trademark lawsuit) but the fact that BAYC NFTs were planned to be for sale on Ape Market doesn’t mean BAYC/Yuga was a collaborator.
+
+Correlation does not imply causation, it’s just how decentralization works.9. “V1 Owners can’t use them as their PFP, that violates copyright”This is one many people feel very passionately about though there’s little legal support for this position.
+
+While the new license terms provided for Crypto Punks by Yuga Labs is much more detailed it does discuss rights which potentially do not exist.
+
+It would seem the authors of these terms know that as there are numerous caveats throughout with statements about rights with “if they exist” or “may exist” qualifiers.
+
+The hard evidence is that there is only one copyright registration on file for Crypto Punks and it’s for the entire image of all 10k Crypto Punks.
+
+Copyright lawyer Brian L.
+
+Frye has written a paper which questions if individual Crypto Punks meet the standards to be copyrighted, and a 2012 legal paper by Tyler Ochoa asserts that it’s unlikely that existing copyright law is applicable to avatars anyway.
+
+For most of the last 20 years people have used anything they want as an avatar on any number of services only occasionally bumping into an individual platform’s Terms of Use.
+
+My read is that if someone could file a copyright violation against someone else for an avatar we would have seen that plenty of times by now, so I think this claim is more wishful thinking than reality.
+
+But Twitter is full of people using Crypto Punks that they don’t own as avatars so if someone wants to file a lawsuit I’d be interested to see how it plays out.10. “V1s aren’t real!”This is easily the most subjective argument on the list, as it ultimately depends on what any individual defines as “real” for themselves.
+
+Even Larva Labs in the height of their criticism and backpedaling stopped short of that claim, instead stating that they were not “official.” I think that the classification of V1 as the original and V2 as the official makes a lot of sense.
+
+I also think it’s important to recognize that “official” is a title bestowed by someone else, in theory Yuga Labs could make a wrapper for V2s so that they function natively in ERC-721 ecosystems and then declare that the wrapped version is now the official collection.
+
+Not that they would, but the point there is no decisions by companies or investors can change the “original” status, but “official” is a bit more flexible.
+
+So what is “real”?
+
+For me, the V1 “Crypto Punks” contract was written by Larva Labs, published to the Ethereum Blockchain, the tokens were distributed to the public, and they spoke to the press about it.
+
+That’s about as real as it possibly gets.
+
+One might even argue that’s more “real” than an NFT minted on a platform’s shared smart contract, or something like XCOPY’s Grifters which were minted through Async for example.
+
+As a collector who understands the importance of provenance, I always prefer that an artist mints their work from their own wallet (or one they control).
+
+In the art world there are two relevant examples that come to mind: The Warhol Foundation and Banksy’s Pest Control.
+
+Both organizations are tasked with validating works by the artists.
+
+Warhol and Banksy are both incredibly prolific and have a lot of fraudulent copies floating around so having an authoritative body which can say “yes this is real, no that is fake” is really helpful.
+
+With Warhol, there is work that was made in The Factory with Warhol’s screens by Warhol’s assistants and The Warhol Foundation needs to definitively say “yes that piece is technically identical to this other piece but it’s not ‘real’.” This gets tricky because in some cases Warhol had his assistants do the work for pieces that are considered “real.” Similarly Pest Control has made it clear that Banksy will not validate any of his street work that has been removed from the street.
+
+So Banksy could put a piece up, everyone knows it’s a Banksy, but then someone cuts that part of the wall out and tries to sell it and the official line from Pest Control is that it’s no longer a real Banksy.
+
+How will that policy hold up in 100 years?
+
+I think it’s hard to believe that will be honored in the long term.
+
+If we found a painting by van Gogh in an attic with a note from him saying “this sucks, I never should have painted it, I don’t consider it my work” would the art world collectively say “throw this crap in the trash!” or would they celebrate a “lost” van Gogh that had just been discovered, regardless of what the artist personally thought about it?
+
+Those are extreme cases to illustrate some pretty fantastic grey area, however I think the beauty of the blockchain is that these issues are negated.
+
+If Warhol minted all his work there would be no question of something was his or not.
+
+If Banksy minted all his work similarly all questions of authenticity would disappear.
+
+Luckily with Larva Labs they did mint their work, and the blockchain evidence is there to document it.
+
+Conclusion and my prediction…At the risk of sounding dismissive I think the argument over what is “THE CRYPTOPUNKS” kind of loses the plot.
+
+This is history and culture and all of these things play into the big picture, regardless of what value any individual places on any single element.
+
+V1, V2, Larva, Yuga — these are all fascinating chapters in a much more interesting and larger story.
+
+I’ve stated publicly long before I ever owned V1 or V2 Crypto Punks that I think these are incredibly important cultural artifacts which have had immense impact on both how we think of digital identity and the concept of collectable art online.
+
+I now own both, and I imagine an increasing number of collectors will begin to seek out “pairs” as I have.
+
+Having the original and the official feels like a complete set.
+
+There’s something like 120-ish wallets right now with the V1 & V2 of the same Crypto Punk and I suspect that number is only going to keep growing.
+
+And what about Yuga?
+
+In a recent interview on the subject a Yuga representative stated that they have “ no current plans “ for V1s, but they also own over 1000 of them.
+
+They know there’s a vibrant and active V1 community, which has a quietly growing overlap to the V2 community.
+
+If nothing else I believe Yuga is interested in building community, not fighting against it the way Larva did and that interest will inform their future steps.
+
+My prediction is that this is something they will eventually capitalize on, possibly by creating their own wrapper for V1s and treating them like the Mutants to the BAYC, or maybe they will make their own wrapper for V2s to address the marketplace issues.
+
+I think most people still don’t understand what V1s even are, and as more people learn the history and context I can’t see how their popularity won’t continue to grow.
+
+The only one thing I’m 100% sure of however is that no matter what I say about any of this, someone will criticize me for it.
+
+Oh well.
+
+I hope this you found this article to be helpful and I made this handy chart to help you navigate your own explorations of the NFT space:Originally published at https://blog.seanbonner.com on September 2, 2022.

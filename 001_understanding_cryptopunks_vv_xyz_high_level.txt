@@ -1,0 +1,95 @@
+Title: A High Level View
+
+URL: https://understanding-cryptopunks.vv.xyz/high-level
+
+A High Level View What in the world are Crypto Punks??!
+
+The Crypto Punks introduction from the Larva Labs website.10,000 unique collectible characters
+
+with proof of ownership stored on the Ethereum blockchain.
+
+The project that inspired the modern Crypto Art movement. ...
+
+One of the earliest examples of a "Non-Fungible Token" ....
+
+Let's unpack.1) 10,000 unique collectible characters Us humans have always been collectors.
+
+We like to gather things, name things, and derive meaning from making that a shared experience with others.
+
+Whether it's tangible things like gemstones or shells, watches or cars; less tangible things like books and art; or quite intangible things like ideas, knowledge, and insight.
+
+Collecting is what we do.
+
+Crypto Punks just extend the scope in which we can collect items: The digital realm...
+
+Ten thousand 24×24 pixel portraits of punks, assembled from various individual traits like hairstyles and jewelry.2) Proof of Ownership on the Ethereum Blockchain The Blockchain...
+
+Everyone has heard of it – "that thing where you can send digital money around".
+
+Well that's only a second order effect if you will.
+
+What the technology actually does is establish a shared log of historical events; a single source of truth of what happened when.
+
+This enables us to do much more than just send digital money back and forth – one of which is the tracking of ownership of any object over time.
+
+Crypto Punks make use of this.
+
+When they launched, they came with code that processes changes in ownership of each individual punk.
+
+All changes have to go through this little program, which is immutable (meaning no one can change it) and unblockable (meaning no one can stop it).
+
+Anyone can prove who owns which punk, at any moment in time.
+
+The state of the Ethereum blockchain is validated by hundreds of thousands of computers, distributed around the entire globe.
+
+Anyone that wants to, can participate in securing the network, and there is no entity that could come in to change any part of its state, unless they follow the rules set out by the blockchain itself, and these programs called "smart contracts".
+
+For Crypto Punks, this piece of code is called the "Crypto Punks Market" smart contract and we'll do a dive deep in a bit.3) Inspired the modern Crypto Art movement ...; One of the earliest examples of a "Non-Fungible Token"
+
+Crypto Punks wallpaper presentation during the "Five Punks on Paper" Sothebys Auction.
+
+The worlds biggest artists, auction houses and brands are all in agreement: We live in a digitized world.
+
+This is just a new medium, like there have been new art forms in the past..
+
+It's here to stay, and cryptography1 and blockchain technologies enable us to collect, own, and trade them on a global, borderless market.
+
+Each object that's kept track of is called a "token".
+
+Tokens are identifiers for these objects, like the serial number of a car or the ISBN number of a book.
+
+And more specifically, in the case of most art, we refer to them as "non fungible tokens", because each identifier points to a unique piece, which can't be exchanged with another one to one.
+
+Crypto Punks were the seminal art project of its kind; and caught fire like no other.
+
+It inspired various technological standards that were derived from it and spearheaded an entire movement of established and new artists and developers experimenting in this new paradigm.
+
+And with every day, as more people and institutions join this new world to build, experiment, and collect, this special station of Crypto Punks is further solidified.
+
+In the end, all roads lead back to punks...
+
+Today, the Punks are exhibited in the most prestigious Museums like the Centre Pompidou and the LACMA, a cultural phenomenon celebrated by icons from fashion, music, art and technology.
+
+To date, the Crypto Punks Market smart contract has processed billions of US$ in volume.
+
+Thousands of individual accounts have interacted with it, and over 6000 accounts have owned punks.
+
+The most traded punk has changed hands 51 times.
+
+All that, handled by this little piece of code that runs on Ethereum...
+
+If one removes whitespace and comments, it's less than 200 lines of code.2.5+ billion $ of secure trading.
+
+200 lines of code.
+
+Let that sink in...
+
+A global community.
+
+No middlemen or rent seekers.
+
+Reflecting on this, it must become immediately clear, that this is a paradigm shift technology that has implications far beyond "just" digital art.
+
+Footnotes Participants don't have to trust each other, even in the presence of bad actors.
+
+Not only has cryptography enabled us to have private conversations online – in the context of blockchain, cryptography is used to secure and authenticate transactions, ensuring the integrity and privacy of data on the decentralized ledger. ↩

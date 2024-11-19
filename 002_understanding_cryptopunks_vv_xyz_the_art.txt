@@ -1,0 +1,15 @@
+Title: The Art
+
+URL: https://understanding-cryptopunks.vv.xyz/the-art
+
+The Art For Crypto Punks, the smart contract and marketplace is just as much part of the art as the punk visuals themselves.
+
+Still, the visual art is captivating and incredible on its own merit.
+
+Let's have a closer look!
+
+Section Overview1.
+
+Punk Attributes Each punk is just 24×24 pixels – tiny if looked at on it's actual scale; iconic and incredibly well balanced when scaled up.2.
+
+The Punks PNGThere is one single source-of-truth PNG-image containing all 10,000 punks.
